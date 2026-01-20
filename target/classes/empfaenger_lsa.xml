@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lsa_recipients>
+    <recipient>
+        <name>KAPO ZH</name>
+        <numbers>
+            <number>079 664 93 08</number>
+            <number>079 442 03 76</number>
+        </numbers>
+        <emails>
+            <email>Ves@kapo.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton AG</name>
+        <numbers/>
+        <emails>
+            <email>matthias.lehmann@ag.ch</email>
+            <email>andreas.huser@ag.ch</email>
+            <email>daniel.neuhaus@ag.ch</email>
+            <email>daniel.fagone@ag.ch</email>
+            <email>marcel.daetwyler@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton BE</name>
+        <numbers>
+            <number>079 716 40 97</number>
+        </numbers>
+        <emails>
+            <email>bruno.broennimann@be.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton BL</name>
+        <numbers>
+            <number>079 263 85 06</number>
+            <number>079 263 85 07</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Kanton LU</name>
+        <numbers/>
+        <emails>
+            <email>pascal.emmenegger@lu.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton SH</name>
+        <numbers>
+            <number>079 407 63 20</number>
+            <number>079 626 13 95</number>
+            <number>079 308 81 04</number>
+        </numbers>
+        <emails>
+            <email>damian.schelbert@neuhausen.ch</email>
+            <email>roger.schlatter@ktsh.ch</email>
+            <email>fabio.ferrara@sh.ch</email>
+            <email>joel.ott@ktsh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton SO</name>
+        <numbers>
+            <number>079 407 59 69</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Kanton SZ</name>
+        <numbers>
+            <number>079 291 62 70</number>
+            <number>079 156 90 81</number>
+        </numbers>
+        <emails>
+            <email>ernst.bingisser@sz.ch</email>
+            <email>bruno.abegg@sz.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton TG</name>
+        <numbers/>
+        <emails>
+            <email>peter.zollinger@tg.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton ZG</name>
+        <numbers>
+            <number>079 743 24 33</number>
+            <number>079 128 87 21</number>
+            <number>079 772 40 51</number>
+            <number>079 211 65 90</number>
+            <number>079 895 97 85</number>
+            <number>076 803 03 51</number>
+            <number>079 691 36 33</number>
+            <number>079 798 48 72</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Kanton ZH</name>
+        <numbers>
+            <number>079 645 22 33</number>
+            <number>079 248 74 87</number>
+            <number>079 812 55 77</number>
+        </numbers>
+        <emails>
+            <email>christoph.humbel@bd.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Stadt BE</name>
+        <numbers>
+            <number>079 676 10 55</number>
+            <number>079 607 24 82</number>
+        </numbers>
+        <emails>
+            <email>Chris.Kollascheck@BERN.CH</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Stadt Thun</name>
+        <numbers>
+            <number>079 713 48 23</number>
+        </numbers>
+        <emails>
+            <email>daniel.burri@thun.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Stadt Winterthur</name>
+        <numbers>
+            <number>079 968 54 72</number>
+        </numbers>
+        <emails>
+            <email>nelson.carrasco@win.ch</email>
+            <email>nino.widmer@win.ch</email>
+            <email>ioannis.karipidis@win.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Stadt ZG</name>
+        <numbers/>
+        <emails>
+            <email>armin.zemp@stadtzug.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Peter Zollinger</name>
+        <numbers/>
+        <emails>
+            <email>peter.zollinger@tg.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Andre Aebi</name>
+        <numbers>
+            <number>079 407 59 69</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Stefan Murer</name>
+        <numbers>
+            <number>079 645 22 33</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Christoph Humbel</name>
+        <numbers>
+            <number>079 248 74 87</number>
+        </numbers>
+        <emails>
+            <email>christoph.humbel@bd.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Peter Bettschart</name>
+        <numbers>
+            <number>079 812 55 77</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Nelson Carrasco</name>
+        <numbers/>
+        <emails>
+            <email>nelson.carrasco@win.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Nino Widmer</name>
+        <numbers/>
+        <emails>
+            <email>nino.widmer@win.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Armin Zemp</name>
+        <numbers/>
+        <emails>
+            <email>armin.zemp@stadtzug.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Matthias Lehmann</name>
+        <numbers/>
+        <emails>
+            <email>matthias.lehmann@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Andreas Huser</name>
+        <numbers/>
+        <emails>
+            <email>andreas.huser@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Daniel Neuhaus</name>
+        <numbers/>
+        <emails>
+            <email>daniel.neuhaus@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Daniel Fagone</name>
+        <numbers/>
+        <emails>
+            <email>daniel.fagone@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Michael Früh</name>
+        <numbers>
+            <number>079 743 24 33</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Matthias Kramer</name>
+        <numbers>
+            <number>079 128 87 21</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Daniel Kühne</name>
+        <numbers>
+            <number>079 772 40 51</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Marc Ochsner</name>
+        <numbers>
+            <number>079 211 65 90</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Urs Hegglin</name>
+        <numbers>
+            <number>079 895 97 85</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Bertrand Pernollet</name>
+        <numbers>
+            <number>076 803 03 51</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Robert Gazar</name>
+        <numbers>
+            <number>079 691 36 33</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Olivier Barmet</name>
+        <numbers>
+            <number>079 798 48 72</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Marcel Dätwyler</name>
+        <numbers/>
+        <emails>
+            <email>marcel.daetwyler@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Damian Schelbert</name>
+        <numbers/>
+        <emails>
+            <email>damian.schelbert@neuhausen.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Jürg Marthaler</name>
+        <numbers>
+            <number>079 664 93 08</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Herbert Vetsch</name>
+        <numbers>
+            <number>079 442 03 76</number>
+        </numbers>
+        <emails>
+            <email>Ves@kapo.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Daniel Burri</name>
+        <numbers>
+            <number>079 713 48 23</number>
+        </numbers>
+        <emails>
+            <email>daniel.burri@thun.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Daniel Suter</name>
+        <numbers>
+            <number>079 263 85 06</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Martin Schweizer</name>
+        <numbers>
+            <number>079 263 85 07</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Reto Pomaro</name>
+        <numbers>
+            <number>079 676 10 55</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Roland Jutzi</name>
+        <numbers>
+            <number>079 607 24 82</number>
+        </numbers>
+        <emails/>
+    </recipient>
+    <recipient>
+        <name>Chris Kollascheck</name>
+        <numbers/>
+        <emails>
+            <email>Chris.Kollascheck@BERN.CH</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Ernst Bingisser</name>
+        <numbers>
+            <number>079 291 62 70</number>
+        </numbers>
+        <emails>
+            <email>ernst.bingisser@sz.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Bruno Abegg</name>
+        <numbers>
+            <number>079 156 90 81</number>
+        </numbers>
+        <emails>
+            <email>bruno.abegg@sz.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Bruno Brönnimann</name>
+        <numbers>
+            <number>079 716 40 97</number>
+        </numbers>
+        <emails>
+            <email>bruno.broennimann@be.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Roger Schlatter</name>
+        <numbers>
+            <number>079 407 63 20</number>
+        </numbers>
+        <emails>
+            <email>roger.schlatter@ktsh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Fabio Ferrara</name>
+        <numbers>
+            <number>079 626 13 95</number>
+        </numbers>
+        <emails>
+            <email>fabio.ferrara@sh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Joel Ott</name>
+        <numbers>
+            <number>079 308 81 04</number>
+        </numbers>
+        <emails>
+            <email>joel.ott@ktsh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Pascal Emmenegger</name>
+        <numbers/>
+        <emails>
+            <email>pascal.emmenegger@lu.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Ioannis Karipidis</name>
+        <numbers>
+            <number>079 968 54 72</number>
+        </numbers>
+        <emails>
+            <email>ioannis.karipidis@win.ch</email>
+        </emails>
+    </recipient>
+</lsa_recipients>

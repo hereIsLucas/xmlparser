@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vde_recipients>
+    <recipient>
+        <name>ASTRA</name>
+        <numbers/>
+        <emails>
+            <email>martin.schmid@astra.ch</email>
+            <email>sebastien.berset@astra.admin.ch</email>
+            <email>philippe.lauper@astra.admin.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>ASTRA / RK&amp;P</name>
+        <numbers/>
+        <emails>
+            <email>zak@rkag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>FL</name>
+        <numbers/>
+        <emails>
+            <email>Rene.Kaufmann@llv.li</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton AG</name>
+        <numbers/>
+        <emails>
+            <email>marcel.daetwyler@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton AI</name>
+        <numbers/>
+        <emails>
+            <email>ruedi.grob@bud.ai.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton BL</name>
+        <numbers/>
+        <emails>
+            <email>felix.seiler@bl.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton LU</name>
+        <numbers/>
+        <emails>
+            <email>markus.sommerhalder@lu.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton NW</name>
+        <numbers/>
+        <emails>
+            <email>eveline.spichtig@nw.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton SO</name>
+        <numbers/>
+        <emails>
+            <email>kurt.erni@bd.so.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton SZ / Metron</name>
+        <numbers/>
+        <emails>
+            <email>timo.paulsen@metron.ch</email>
+            <email>daniela.prezigalo@metron.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton TG</name>
+        <numbers/>
+        <emails>
+            <email>peter.zollinger@tg.ch</email>
+            <email>gabriela.bommer@tg.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton TI</name>
+        <numbers/>
+        <emails>
+            <email>fabian.fenaroli@ti.ch</email>
+            <email>barbara.lupi@ti.ch</email>
+            <email>mario.andreoletti@ti.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton UR</name>
+        <numbers/>
+        <emails>
+            <email>clemens.denier@ur.ch</email>
+            <email>jan.meier@ur.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton VS</name>
+        <numbers/>
+        <emails>
+            <email>olivier.schalbetter@admin.vs.ch</email>
+            <email>cedric.savoy@admin.vs.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kanton ZH</name>
+        <numbers/>
+        <emails>
+            <email>juerg.gubler@bd.zh.ch</email>
+            <email>alex.loosli@bd.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Peter Zollinger</name>
+        <numbers/>
+        <emails>
+            <email>peter.zollinger@tg.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Gaby Bommer</name>
+        <numbers/>
+        <emails>
+            <email>gabriela.bommer@tg.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>René Kaufmann</name>
+        <numbers/>
+        <emails>
+            <email>Rene.Kaufmann@llv.li</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Olivier Schalbetter</name>
+        <numbers/>
+        <emails>
+            <email>olivier.schalbetter@admin.vs.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Cedric Savoy</name>
+        <numbers/>
+        <emails>
+            <email>cedric.savoy@admin.vs.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Fabian Fenaroli</name>
+        <numbers/>
+        <emails>
+            <email>fabian.fenaroli@ti.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Barbara Lupi</name>
+        <numbers/>
+        <emails>
+            <email>barbara.lupi@ti.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Mario Andreoletti</name>
+        <numbers/>
+        <emails>
+            <email>mario.andreoletti@ti.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Martin Schmid</name>
+        <numbers/>
+        <emails>
+            <email>martin.schmid@astra.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Sébastien Berset</name>
+        <numbers/>
+        <emails>
+            <email>sebastien.berset@astra.admin.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Lauper Philippe</name>
+        <numbers/>
+        <emails>
+            <email>philippe.lauper@astra.admin.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Jürg Gubler</name>
+        <numbers/>
+        <emails>
+            <email>juerg.gubler@bd.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Alex Loosli</name>
+        <numbers/>
+        <emails>
+            <email>alex.loosli@bd.zh.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Eveline Spichtig</name>
+        <numbers/>
+        <emails>
+            <email>eveline.spichtig@nw.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Timo Paulsen</name>
+        <numbers/>
+        <emails>
+            <email>timo.paulsen@metron.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Daniela Prezigalo</name>
+        <numbers/>
+        <emails>
+            <email>daniela.prezigalo@metron.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Ruedi Grob</name>
+        <numbers/>
+        <emails>
+            <email>ruedi.grob@bud.ai.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Markus Sommerhalder</name>
+        <numbers/>
+        <emails>
+            <email>markus.sommerhalder@lu.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kurt Erni</name>
+        <numbers/>
+        <emails>
+            <email>kurt.erni@bd.so.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Felix Seiler</name>
+        <numbers/>
+        <emails>
+            <email>felix.seiler@bl.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Clemens Denier</name>
+        <numbers/>
+        <emails>
+            <email>clemens.denier@ur.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Jan Meier</name>
+        <numbers/>
+        <emails>
+            <email>jan.meier@ur.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Marcel Dätwyler</name>
+        <numbers/>
+        <emails>
+            <email>marcel.daetwyler@ag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Kevin Zacher</name>
+        <numbers/>
+        <emails>
+            <email>zak@rkag.ch</email>
+        </emails>
+    </recipient>
+    <recipient>
+        <name>Urs Büchler</name>
+        <numbers/>
+        <emails>
+            <email>urs.buechler@stadt.sg.ch</email>
+        </emails>
+    </recipient>
+</vde_recipients>

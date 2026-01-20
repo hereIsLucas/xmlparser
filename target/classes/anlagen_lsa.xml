@@ -1,0 +1,4941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lsa_anlagen>
+    <anlage>
+        <nummer>BE250002</nummer>
+        <ort>Biel</ort>
+        <text>Länggasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250004</nummer>
+        <ort>Biel</ort>
+        <text>Solothurnstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250009</nummer>
+        <ort>Biel</ort>
+        <text>Orpundstrasse Beaulieuweg / Löhre (Beaulieuweg FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250015</nummer>
+        <ort>Biel</ort>
+        <text>Dr. Schneider-Strasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250016</nummer>
+        <ort>Biel</ort>
+        <text>Rousseauplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250017</nummer>
+        <ort>Biel</ort>
+        <text>Ländte-/ Badhausstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250018</nummer>
+        <ort>Biel</ort>
+        <text>Salzhaus-/ Johann Aberli-Strasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250019</nummer>
+        <ort>Biel</ort>
+        <text>Gymnasium</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250020</nummer>
+        <ort>Biel</ort>
+        <text>Seefelskreisel</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250021</nummer>
+        <ort>Biel</ort>
+        <text>Henri Dunant Strasse (Pförtneranlage)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE250024_(6110)</nummer>
+        <ort>Biel</ort>
+        <text>Johann-Renfer-Strasse (A5 Anschluss Biel Ost)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE255201</nummer>
+        <ort>Oprund</ort>
+        <text>Kreuz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE255501</nummer>
+        <ort>Brügg</ort>
+        <text>Bielstrasse (Bärlet)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE255601</nummer>
+        <ort>Scheuren</ort>
+        <text>Gottstatt-Brücke</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE255801</nummer>
+        <ort>Aegerten</ort>
+        <text>Bielstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE256001</nummer>
+        <ort>Nidau</ort>
+        <text>Hauptstrasse ASM-Übergang (Hauptstrasse ASM-Übergang)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE256403</nummer>
+        <ort>Bellmund</ort>
+        <text>Jensgasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE257201</nummer>
+        <ort>Mörigen</ort>
+        <text>Haupt-/ Oberdorfstrasse / Hohle Gasse (Seeblick)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE260501</nummer>
+        <ort>Sonceboz</ort>
+        <text>30 / La Cibourg / Sonceboz / Moutier / Balsthal (Carrefour)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE305201</nummer>
+        <ort>Zollikofen</ort>
+        <text>Steinibach</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE305302</nummer>
+        <ort>Münchenbuchsee</ort>
+        <text>Zürich-/ Bernstrasse (Kreisel T1/T6)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE305303</nummer>
+        <ort>Münchenbuchsee</ort>
+        <text>Biel-/ Oberdorfstrasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE305304</nummer>
+        <ort>Münchbuchssee</ort>
+        <text>Waldegg (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE306302</nummer>
+        <ort>Ittigen</ort>
+        <text>Länggasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE306303</nummer>
+        <ort>Worblaufen</ort>
+        <text>Tiefenaustrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE306308</nummer>
+        <ort>Ittigen</ort>
+        <text>Untere Zollgasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE306309</nummer>
+        <ort>Ittigen</ort>
+        <text>Grauholzstrasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE307203</nummer>
+        <ort>Ostermundigen</ort>
+        <text>Kreisel Rothus (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE307403</nummer>
+        <ort>Muri</ort>
+        <text>Aebnitstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE307404</nummer>
+        <ort>Muri</ort>
+        <text>Worbstrasse (Siloah)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE307405</nummer>
+        <ort>Muri</ort>
+        <text>Thorackerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE307406</nummer>
+        <ort>Muri</ort>
+        <text>Worbstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309802</nummer>
+        <ort>Köniz</ort>
+        <text>Dorfstrasse (Wabern)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309804</nummer>
+        <ort>Köniz</ort>
+        <text>Eichholzstrasse / Quellenweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309807</nummer>
+        <ort>Köniz</ort>
+        <text>Maygutstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309808</nummer>
+        <ort>Köniz</ort>
+        <text>Lindenweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309818</nummer>
+        <ort>Köniz</ort>
+        <text>Schlosskreisel</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309819</nummer>
+        <ort>Köniz</ort>
+        <text>Ventil</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309820</nummer>
+        <ort>Köniz</ort>
+        <text>Brühlplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309830</nummer>
+        <ort>Köniz</ort>
+        <text>Bläuackergraben / Sonnenweg (Bläuacker)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE309831</nummer>
+        <ort>Niederwangen</ort>
+        <text>Freiburgstrasse / Schwendistutz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE311001</nummer>
+        <ort>Münsingen</ort>
+        <text>Käsereikreuzung</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE311301_(6135)</nummer>
+        <ort>Rubigen</ort>
+        <text>Belpstrasse (Rubigen Anschluss A6)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE312201</nummer>
+        <ort>Kehrsatz</ort>
+        <text>Bernstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE325001</nummer>
+        <ort>Lyss</ort>
+        <text>Walkeweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE325007</nummer>
+        <ort>Lyss</ort>
+        <text>Aarbergstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE325201</nummer>
+        <ort>Worben</ort>
+        <text>Bielstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE327002</nummer>
+        <ort>Aarberg</ort>
+        <text>Bezirksspital Aarberg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE329402</nummer>
+        <ort>Büren</ort>
+        <text>Aarbergstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330201_(6115)</nummer>
+        <ort>Moosseedorf</ort>
+        <text>Moosmatte Ost</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330202_(6115)</nummer>
+        <ort>Moosseedorf</ort>
+        <text>Bernstrasse / Industriestrasse (Moosmatte West)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330203_(6115)</nummer>
+        <ort>Schönbühl</ort>
+        <text>Industriestrasse / Badweg (Rondelle)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330204_(6115)</nummer>
+        <ort>Moosseedorf</ort>
+        <text>Industrie- / Gewerbestrasse (Moosmatte Süd)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330205</nummer>
+        <ort>Moosseedorf</ort>
+        <text>Shoppyland Moosseedorf</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330301</nummer>
+        <ort>Jegenstorf</ort>
+        <text>Riedweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE332204</nummer>
+        <ort>Hindelbank</ort>
+        <text>Hindelbank-/ Hohrainstrasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE332207</nummer>
+        <ort>Urtenen-Schönbühl</ort>
+        <text>Lysssstrasse / Lerchenweg (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE332208</nummer>
+        <ort>Urtenen-Schönbühl</ort>
+        <text>Bernstrasse (Stägmatt) (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE332209</nummer>
+        <ort>Urtenen-Schönbühl</ort>
+        <text>Sandstrasse / Römerwerg (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE332210</nummer>
+        <ort>Urtenen-Schönbühl</ort>
+        <text>Kreisel Solothurn-/ Bernstrasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE332301</nummer>
+        <ort>Bäriswil</ort>
+        <text>Bern-/ Mattstettenstrasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE340002</nummer>
+        <ort>Burgdorf</ort>
+        <text>Platanen-/ Gotthelfstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE340004</nummer>
+        <ort>Burgdorf</ort>
+        <text>Kirchbergstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE340007</nummer>
+        <ort>Burgdorf</ort>
+        <text>Hammerweg FG-LSA</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE342201</nummer>
+        <ort>Kirchberg</ort>
+        <text>Hauptstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE342202</nummer>
+        <ort>Kirchberg</ort>
+        <text>Coop</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360001</nummer>
+        <ort>Thun</ort>
+        <text>Thalackerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360002</nummer>
+        <ort>Thun</ort>
+        <text>Frutigenstrasse (Thalackerstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360003</nummer>
+        <ort>Thun</ort>
+        <text>Gwattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360007</nummer>
+        <ort>Thun</ort>
+        <text>Frutigenstrasse Busspur</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360010</nummer>
+        <ort>Thun</ort>
+        <text>Burger-/ Weststrasse (MMM Zentrum Berner Oberland)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360011</nummer>
+        <ort>Thun</ort>
+        <text>Burger-/ Weststrasse (Stadion)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE360091</nummer>
+        <ort>Thun</ort>
+        <text>Engpassteuerung Anlieferung EKZ Stadion</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE361203</nummer>
+        <ort>Steffisburg</ort>
+        <text>Bernstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE367201</nummer>
+        <ort>Oberdiessbach</ort>
+        <text>Burgdorf-/ Kirchstrasse (Löwen FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE370003</nummer>
+        <ort>Spiez</ort>
+        <text>Bahnhofstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE371302_(6145)</nummer>
+        <ort>Reichenbach</ort>
+        <text>Hauptstrasse / Kienstrasse / Dorfstrasse (Kienstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE386003_(6155)</nummer>
+        <ort>Meiringen</ort>
+        <text>Brünigstr. / Brünig Hasliberg (Postauto Brünigpass)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE491201</nummer>
+        <ort/>
+        <text>Langenthalstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE492301</nummer>
+        <ort>Wynau</ort>
+        <text>Bernstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_101</nummer>
+        <ort/>
+        <text>Länggass-/ Neufeld-/ Muessmattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_105_(3000-032)</nummer>
+        <ort>Bern</ort>
+        <text>Tiefenaustrasse / Haltestelle Felsenau (Tiefenaustrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_113</nummer>
+        <ort>Bern</ort>
+        <text>Stadtbachstrasse (Bahnhofdurchfahrt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_114</nummer>
+        <ort>Bern</ort>
+        <text>Schanzen-/ Stadtbachstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_123_(3000-039)</nummer>
+        <ort>Bern</ort>
+        <text>Morrilon-/ Seftigen-/ Monbijoustrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_127_(3000-038)</nummer>
+        <ort>Bern</ort>
+        <text>Seftigenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_129_(3000-036)</nummer>
+        <ort>Bern</ort>
+        <text>Weissenstein-/Brunnmatt-/Pestalozzistrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_145_(3000-013)</nummer>
+        <ort>Bern</ort>
+        <text>Freiburg-/ Weissensteinstrasse (Gangloff)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_146</nummer>
+        <ort>Bern</ort>
+        <text>Bern-/Bethlehemstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_149_(3000-014)</nummer>
+        <ort>Bern</ort>
+        <text>Ansermetplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_159</nummer>
+        <ort>Bern</ort>
+        <text>Bethlehem-/Keltenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_160_(3000-033)</nummer>
+        <ort>Bern</ort>
+        <text>Murtenstrasse (Zufahrt Sanitätspolizei)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_161_(3000-019)</nummer>
+        <ort>Bern</ort>
+        <text>Weyermannshaus</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE_165</nummer>
+        <ort>Bern</ort>
+        <text>Waldmann-/ Riedbachstrasse (Holenackerplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__11</nummer>
+        <ort>Bern</ort>
+        <text>Monbijou-/Kapellenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__23</nummer>
+        <ort>Bern</ort>
+        <text>Neubrück- / Speichergasse (Bollwerk)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__24</nummer>
+        <ort>Bern</ort>
+        <text>Hodlerstrasse (Lorrainebrücke (308))</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__31</nummer>
+        <ort>Bern</ort>
+        <text>Nordring / Quartiergasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__32</nummer>
+        <ort>Bern</ort>
+        <text>Eiger-/Monbijoustrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__39</nummer>
+        <ort>Bern</ort>
+        <text>Murten-/ Bahn-/ Fabrikstrasse (Güterbahnhof)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__44</nummer>
+        <ort>Bern</ort>
+        <text>Murtenstrasse (Anschluss Parkhaus Insel)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__45</nummer>
+        <ort>Bern</ort>
+        <text>Bühl-/Stadtbachstrasse (Bühl-/Stadtbachstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__53</nummer>
+        <ort>Bern</ort>
+        <text>Thun-/ Brunnadernstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__54</nummer>
+        <ort>Bern</ort>
+        <text>Ostring / Buchserstrasse (Ostring / Buchserstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__55</nummer>
+        <ort>Bern</ort>
+        <text>Muri-/Weltpoststr.-/Murifeld-/Elfenauweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__56</nummer>
+        <ort>Bern</ort>
+        <text>Kirchenfeld-/ Bernastrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__57_(3000-057_/_6135)</nummer>
+        <ort>Bern</ort>
+        <text>Freudenbergerplatz / N06 / Bern PUN Wankdorf - Muri</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__59_(3000-003)</nummer>
+        <ort>Bern</ort>
+        <text>Egghölzli West</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__60_(3000-004)</nummer>
+        <ort>Bern</ort>
+        <text>Egghölzli Ost</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__64</nummer>
+        <ort>Bern</ort>
+        <text>Melchenbühlweg (Melchenbühlweg)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__72</nummer>
+        <ort>Bern</ort>
+        <text>Stand-/Winkelried-/ Stauffacherstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__73</nummer>
+        <ort>Bern</ort>
+        <text>Winkelried-/ Tellstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__74</nummer>
+        <ort>Bern</ort>
+        <text>Winkelriedstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__86_(3000-007)</nummer>
+        <ort>Bern</ort>
+        <text>Wankdorfplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__87</nummer>
+        <ort>Bern</ort>
+        <text>Laubeggstrasse/Haspelweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__88</nummer>
+        <ort>Bern</ort>
+        <text>Viktoriastrasse / Gotthelfstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE__89</nummer>
+        <ort>Bern</ort>
+        <text>Viktoriaplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE___5</nummer>
+        <ort>Bern</ort>
+        <text>Effinger-/ Belpstrasse (Kocherpark)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE___6</nummer>
+        <ort>Bern</ort>
+        <text>Hirschengraben</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BIBE_35</nummer>
+        <ort>Biberist</ort>
+        <text>Entlastung West / Abfahrt A5 SO West, Lackenhof</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BIBE_48</nummer>
+        <ort>Solothurn</ort>
+        <text>Bürenstrasse / Hunnenweg (Dreibeinskreuz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_111</nummer>
+        <ort>Biel</ort>
+        <text>Heilmannplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_112</nummer>
+        <ort>Biel</ort>
+        <text>Neumarktstrasse / Kanalgasse Neumarktplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_113</nummer>
+        <ort>BI_113</ort>
+        <text>Kanal-/ Collègegasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_114</nummer>
+        <ort>Biel</ort>
+        <text>Nidau-/ Kanalgasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_118</nummer>
+        <ort>Biel</ort>
+        <text>Seevorstadt-/ Spitalstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_123</nummer>
+        <ort>Biel</ort>
+        <text>Bözingen-/ Schlösslistrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_211</nummer>
+        <ort>Biel</ort>
+        <text>Längfeldweg / Renferstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_213</nummer>
+        <ort>Biel</ort>
+        <text>Renferstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_300</nummer>
+        <ort>Biel</ort>
+        <text>Post-/ Büren-/ Orpundstrasse/ Jakob-Strasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_413</nummer>
+        <ort>Stadt Biel/Bienne</ort>
+        <text>Neumarktstrasse Oberer Quai</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_415</nummer>
+        <ort>Biel</ort>
+        <text>Neumarktstrasse / Silbergasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_421</nummer>
+        <ort>Biel</ort>
+        <text>General Dufour-/ Jurastrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_423</nummer>
+        <ort>Biel</ort>
+        <text>Jurastrasse / Oberer Quai</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_517</nummer>
+        <ort>Biel</ort>
+        <text>Zentralstrasse / Madretschstrasse / Brüggstrasse (Kreuzplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_521</nummer>
+        <ort>Biel</ort>
+        <text>Mettstrasse / Blöschweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_522</nummer>
+        <ort>Biel</ort>
+        <text>Madretschstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_524</nummer>
+        <ort>Biel</ort>
+        <text>Port-/ Brüggstrasse / Mösliweg / Portplatz (Portplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_PO1</nummer>
+        <ort>Port, Biel</ort>
+        <text>Hauptstrasse / Lohngasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10101</nummer>
+        <ort>Aesch</ort>
+        <text>Hauptstrasse (Tramendstation FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10102</nummer>
+        <ort>Aesch</ort>
+        <text>Hauptstrasse / Arlesheimerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10103</nummer>
+        <ort>Aesch</ort>
+        <text>Hauptstrasse (Anschluss A18)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10201</nummer>
+        <ort>Allschwil</ort>
+        <text>Baslerstrasse / Schule</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10202</nummer>
+        <ort>Allschwil</ort>
+        <text>Basler-/ Fabrikstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10203</nummer>
+        <ort/>
+        <text>Stockbrunnenrain FG-LSA</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10206</nummer>
+        <ort>Allschwil</ort>
+        <text>Grabenring / Baslerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10302</nummer>
+        <ort>Arlesheim</ort>
+        <text>Basel-/ Birseckstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10304</nummer>
+        <ort>Arlesheim</ort>
+        <text>Birseckstrasse (Stollenrain)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10391</nummer>
+        <ort>Arlesheim</ort>
+        <text>Talstrasse (Im Tal FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10602</nummer>
+        <ort>Binningen</ort>
+        <text>Hauptstrasse / Hohe Gasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10604</nummer>
+        <ort>Binningen</ort>
+        <text>Bottmingerstrasse (Mühlesteig FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10606</nummer>
+        <ort>Binningen</ort>
+        <text>Baselstrasse / Schlossgasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10607</nummer>
+        <ort>Binningen</ort>
+        <text>Linden- / Blumenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10609</nummer>
+        <ort>Binningen</ort>
+        <text>Bottminger-/ Gorenmattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10610</nummer>
+        <ort>Binningen</ort>
+        <text>Bottminger-/ Blumenstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10611</nummer>
+        <ort>Binningen</ort>
+        <text>Basler-/ Weihermattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10704</nummer>
+        <ort>Birsfelden</ort>
+        <text>Haupt-/ Rheinfelder-/ Muttenzerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10705</nummer>
+        <ort>Birsfelden</ort>
+        <text>Haupt-/ Rheinstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10706</nummer>
+        <ort>Birsfelden</ort>
+        <text>Rheinfelderstrasse (Tramschlaufe)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10709</nummer>
+        <ort>Birsfelden</ort>
+        <text>Salinenstrasse / Lichtinsel (Haltestelle)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10802</nummer>
+        <ort>Bottmingen</ort>
+        <text>Binninger-/ Oberwilerstrasse (Schlossgasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10804</nummer>
+        <ort>Bottmingen</ort>
+        <text>Bruderholzstrasse (Bruderholzstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10805</nummer>
+        <ort>Bottmingen</ort>
+        <text>Burggartenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10806</nummer>
+        <ort>Bottmingen</ort>
+        <text>Schlossgasse / Bahnübergang</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10807</nummer>
+        <ort>Bottmingen</ort>
+        <text>Basler-/ Wuhrmattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL10901</nummer>
+        <ort>Ettingen</ort>
+        <text>Hauptstrasse / Flühbergweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11001</nummer>
+        <ort>Münchenstein</ort>
+        <text>Schwertrain-/ Emil-Freystrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11003</nummer>
+        <ort>Münchenstein</ort>
+        <text>Basel-/ Birseckstrasse Süd (Tagesschule)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11005</nummer>
+        <ort>Münchenstein</ort>
+        <text>Heiligholz Kreisel</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11006</nummer>
+        <ort>Münchenstein</ort>
+        <text>Basler-/ Bruderholzstrasse (Neue Welt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11007</nummer>
+        <ort>Münchenstein</ort>
+        <text>Emil-Frey-/ Bottminger-/ Loogstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11015</nummer>
+        <ort>Münchenstein</ort>
+        <text>Emil-Freystrasse (Gartenstadt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11016</nummer>
+        <ort>Münchenstein</ort>
+        <text>Basel-/ Loogstrasse (Hofmatt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11102</nummer>
+        <ort>Muttenz</ort>
+        <text>Rothaus-/ Rheinfelderstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11106</nummer>
+        <ort>Muttenz</ort>
+        <text>St.Jakob-/ Margelackerstrasse (Rennbahn)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11108</nummer>
+        <ort>Muttenz</ort>
+        <text>Rheinfelder-/ Grenzacherstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11111</nummer>
+        <ort>Muttenz</ort>
+        <text>Schänzli</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11113</nummer>
+        <ort>Muttenz</ort>
+        <text>Rütihard</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11121</nummer>
+        <ort>Muttenz</ort>
+        <text>Hauptsstrasse / Tramstrasse (Hauptsstrasse / Tramstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11201</nummer>
+        <ort>Oberwil</ort>
+        <text>Therwiler-/ Bottmingerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11206</nummer>
+        <ort>Oberwil</ort>
+        <text>Haupt-/ Bahnhofstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11402</nummer>
+        <ort>Reinach</ort>
+        <text>Baselstrasse (Haltestelle Landhof FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11403</nummer>
+        <ort>Reinach</ort>
+        <text>Basel-/ Hauptstrasse (Bahnsicherung)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11404</nummer>
+        <ort>Reinach</ort>
+        <text>Haupt-/ Brugg-/ Birsigtalstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11405</nummer>
+        <ort>Reinach</ort>
+        <text>Haupt-/ Vogesenstrasse (Haltestelle)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11406</nummer>
+        <ort>Reinach</ort>
+        <text>Basel-/ Reichensteinerstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11407</nummer>
+        <ort>Reinach</ort>
+        <text>Basel-/ Schönenbachstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11408</nummer>
+        <ort>Reinach</ort>
+        <text>Hauptstrasse / Fiechtenweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11409</nummer>
+        <ort>Reinach</ort>
+        <text>Baselstrasse (Haltestelle Lochacker)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11410</nummer>
+        <ort>Reinach</ort>
+        <text>Basel-/Fleischbachstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11411</nummer>
+        <ort>Reinach</ort>
+        <text>Bruggstrasse (Sternenhof)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL11601</nummer>
+        <ort>Therwil</ort>
+        <text>Bahnhof-/ Basel -/ Reinacherstrasse (Gemeindeverwaltung)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20201</nummer>
+        <ort>Augst</ort>
+        <text>Rhein-/ Frenkendörferstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20301</nummer>
+        <ort>Bubendorf</ort>
+        <text>Hauenstein-/ Hauptstrasse (Bad Bubendorf)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20302</nummer>
+        <ort>Bubendorf</ort>
+        <text>Hauptstrasse (Murenberg FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20303</nummer>
+        <ort>Bubendorf</ort>
+        <text>Obere Hauenstein - / Ramlinsbur - / Grüngenstrasse (Talhaus)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20304</nummer>
+        <ort>Bubendorf</ort>
+        <text>Waldenburger -/  Neuhofstrasse (Talhaus)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20502</nummer>
+        <ort>Frenkendorf</ort>
+        <text>Rheinsstrasse / Mifa</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20901</nummer>
+        <ort>Liestal</ort>
+        <text>Altmarkt</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20902</nummer>
+        <ort>Liestal</ort>
+        <text>Seminar FG-LSA</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20903</nummer>
+        <ort>Liestal</ort>
+        <text>Rhein-/Mühlemattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20904</nummer>
+        <ort>Liestal</ort>
+        <text>Fraumattstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20906</nummer>
+        <ort>Liestal</ort>
+        <text>Kasernenstrassse (Gitterli FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20908</nummer>
+        <ort/>
+        <text>Gestadeckplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20909</nummer>
+        <ort>Liestal</ort>
+        <text>Kantonalbank</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20910</nummer>
+        <ort>Liestal</ort>
+        <text>Rheinstrasse / Eichenweg / Spitalstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20911</nummer>
+        <ort>Liestal</ort>
+        <text>Waldenburgerstrasse (Gräubern)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20912</nummer>
+        <ort>Liestal</ort>
+        <text>Standweg FG-LSA</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20913</nummer>
+        <ort>Liestal</ort>
+        <text>Militär-/Kasernnenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20914</nummer>
+        <ort>Liestal</ort>
+        <text>Bus-LSA Wasserturmplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20915</nummer>
+        <ort>Liestal</ort>
+        <text>Nonnenbodenweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL20991</nummer>
+        <ort>Liestal</ort>
+        <text>Elbisgraben</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21102</nummer>
+        <ort>Pratteln</ort>
+        <text>A2 (Anschluss Pratteln)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21103</nummer>
+        <ort>Pratteln</ort>
+        <text>Salinenstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21104</nummer>
+        <ort>Pratteln</ort>
+        <text>Rhein-/ Salinenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21120</nummer>
+        <ort>Pratteln</ort>
+        <text>Kästeliweg / Baslerstrasse (Kästeliweg / Baslerstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21121</nummer>
+        <ort>Pratteln</ort>
+        <text>Gempen- / Baslerstrasse (Gempenstr. / Baslerstr.)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21122</nummer>
+        <ort>Pratteln</ort>
+        <text>Bahnhof- / Baslerstrasse (Bahnhofstr. / Baslerstr.)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL21123</nummer>
+        <ort>Pratteln</ort>
+        <text>Schlossstrasse (Schlossstrasse Pratteln)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL30601</nummer>
+        <ort>Gelterkinden</ort>
+        <text>Bahnhof- / Sissacherstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL41101</nummer>
+        <ort>Niederdorf</ort>
+        <text>Hauptstrasse (Niederdorf)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL41201</nummer>
+        <ort>Oberdorf</ort>
+        <text>Hauptstrasse (Oberdorf)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL41501</nummer>
+        <ort>Waldenburg</ort>
+        <text>Hauptstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_1</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_10</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_11</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_2</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_3</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_4</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_5</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_6</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_7</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_8</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BL_B_9</nummer>
+        <ort/>
+        <text>9x Baustellengerät mit 11x StR+KoR</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BOB_1</nummer>
+        <ort>Grindelwald</ort>
+        <text>Grund</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>DERE_20</nummer>
+        <ort>Derendingen</ort>
+        <text>Luzern-/Bodenmatt-/Steinmattstrasse (Ritterplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>DERE_30</nummer>
+        <ort>Derendingen</ort>
+        <text>Bahnhofstrasse (Bue (SO___2))</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>GR___1</nummer>
+        <ort>Chur</ort>
+        <text>"Sommerau- / Waffenplatzstrasse ""Rossboden""" (Rossboden)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_101</nummer>
+        <ort>Meggen</ort>
+        <text>Schulhaus FG-LSA</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_102</nummer>
+        <ort>Meggen</ort>
+        <text>Schlösslistrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_120</nummer>
+        <ort>Oberkirch</ort>
+        <text>Länggasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_154</nummer>
+        <ort>Sursee</ort>
+        <text>Münster-/Sonnhaldenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_160</nummer>
+        <ort>Schötz</ort>
+        <text>Schulhaus</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_201</nummer>
+        <ort>Luzern</ort>
+        <text>Gerliswilstrasse (Gerliswilstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_202</nummer>
+        <ort>Luzern</ort>
+        <text>Seetalstrasse / Busbahnhof (Seetalstrasse / Busbahnhof)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_203</nummer>
+        <ort>Luzern</ort>
+        <text>Ibachbrücke / Seetalstrasse (Ibachbrücke / Seetalstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_204</nummer>
+        <ort>Luzern</ort>
+        <text>Reussbühl / Rothenstrasse (Reussbühl / Rothenstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_205</nummer>
+        <ort>Emmen</ort>
+        <text>Reussbühlstrasse (Schiff - Frohburg)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_206</nummer>
+        <ort>Luzern</ort>
+        <text>Seetalplatz / Zollhaus (Zollhaus)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__12</nummer>
+        <ort>Ebikon</ort>
+        <text>K65 (Reussbrücke, LSA 12)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__13</nummer>
+        <ort>Ebikon</ort>
+        <text>Buchrain Ost</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__14</nummer>
+        <ort>Ebikon</ort>
+        <text>Buchrain West</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__16</nummer>
+        <ort>Ballwil</ort>
+        <text>Kantonsstrasse (Bue Ballwil Nord VRA112)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__20</nummer>
+        <ort>Dierikon</ort>
+        <text>Industrie-/ Kantonsstrasse (Migros)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__26</nummer>
+        <ort>Ebikon</ort>
+        <text>Reusseggerstrasse (Sedel 2 / Anschluss A14)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__30</nummer>
+        <ort>Ebikon</ort>
+        <text>Luzerner-/ Schachenweid-/ Kaspar-Kopp-Strasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__32</nummer>
+        <ort>Ebikon</ort>
+        <text>Schlössli-/ Luzerner-/ Zentralstrasse (Schlössli)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__33</nummer>
+        <ort>Ebikon</ort>
+        <text>Dorf-/ Zentralstrasse (Sonnenplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__34</nummer>
+        <ort>Ebikon</ort>
+        <text>Hofmatt-/ Zentralstrasse (Hofmatt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__35</nummer>
+        <ort>Ebikon</ort>
+        <text>Rank-/ Zugerstrasse (Rank)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__36</nummer>
+        <ort>Ebikon</ort>
+        <text>Zugerstrasse (Schindler)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__37</nummer>
+        <ort>Ebikon</ort>
+        <text>Zuger-/ Fildernstrasse (Fildern)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__38</nummer>
+        <ort>Ebikon</ort>
+        <text>Buchrain-/ Zentralstrasse (KII65)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__39</nummer>
+        <ort>Ebikon</ort>
+        <text>Rontalstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__47</nummer>
+        <ort>Luzern</ort>
+        <text>Gerliswilstrasse (Central)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__49</nummer>
+        <ort>Luzern</ort>
+        <text>Gerliswil-/ Bahnhofstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__60</nummer>
+        <ort>Gisikon</ort>
+        <text>Abzweigung Sins Kn. 1</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__61</nummer>
+        <ort>Gisikon</ort>
+        <text>Anschluss Gisikon / Reussbrücke Kn. 2</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__62</nummer>
+        <ort>Gisikon</ort>
+        <text>Knoten Tell Kn. 3</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__67</nummer>
+        <ort>Grosswangen</ort>
+        <text>Kirche FG-LSA</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__86</nummer>
+        <ort>Kriens</ort>
+        <text>Pilatusmarkt / Zubringer Nord (Pilatusmarkt / Zubringer Nord)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__87</nummer>
+        <ort>Kriens</ort>
+        <text>Pilatusmarkt / Zubringer Süd (Pilatusmarkt / Zubringer Süd)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__99</nummer>
+        <ort>Kriens</ort>
+        <text>Luzerner-/ Hofstetter-/ Amlehnstrasse (Kupferhammer)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>MUEM_10</nummer>
+        <ort>Mümliswil-Ramiswil</ort>
+        <text>Passwangstrasse (Tunnel Passwang)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>N04/06</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Mühlenstrasse (Galgenbucktunnel / Los 4 / Anschluss Bahntal)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>NE___1</nummer>
+        <ort>Serrières</ort>
+        <text>Quai Philippe-Suchard</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>NE___2</nummer>
+        <ort>Vauseyon</ort>
+        <text>Giratoire de Vauseyon / Rue du Vauseyon</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>NW_P01</nummer>
+        <ort>Stans</ort>
+        <text>Pilatuswerk</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>NW__06</nummer>
+        <ort>Stans</ort>
+        <text>Rieden</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>NW__08</nummer>
+        <ort>Stans</ort>
+        <text>Buochserstrasse (Anschluss A2 Breiten Süd)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>NW__09</nummer>
+        <ort>Stans</ort>
+        <text>Kreuzstrasse (Werkhof)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>OENS_10</nummer>
+        <ort>Oensingen</ort>
+        <text>Solothurnerstrasse / Lehngasse (Äussere Klus (SO_202))</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>OW___5</nummer>
+        <ort>Lungern</ort>
+        <text>Kirchplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>RIED_10</nummer>
+        <ort>Riedholz / Flumenthal</ort>
+        <text>Baselstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SBB__1</nummer>
+        <ort>Thun</ort>
+        <text>Gemeinschaftsbahnhof Thun</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SCHO_10</nummer>
+        <ort>Schönenwerd</ort>
+        <text>Aarauer-/ Oltener-/ Gösgenstrasse ((SO_210))</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SG__34</nummer>
+        <ort>St. Gallen</ort>
+        <text>St. Leonhard- / Kesslerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SG__35</nummer>
+        <ort>St. Gallen</ort>
+        <text>St. Leonhard- / Pestalozzistrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SG__43</nummer>
+        <ort>St. Gallen</ort>
+        <text>Teufenerstrasse / Demutstrasse (Riethuesli)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SH_101</nummer>
+        <ort>Neuhausen</ort>
+        <text>Engestrasse</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH_102</nummer>
+        <ort>Neuhausen</ort>
+        <text>Klettgauer-/ Zoll-/ Kreuzstrasse</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH_105</nummer>
+        <ort>Neuhausen</ort>
+        <text>Klettgauer-/ Badische Bahnhofstrasse</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH_106</nummer>
+        <ort>Neuhausen</ort>
+        <text>Rheinhof</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH_115</nummer>
+        <ort>Neuhausen</ort>
+        <text>Zollstrasse (Neue Welt FG-LSA)</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH_VG</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Rietstrasse (Schüelerverkehrsgarten)</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__10</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Adler</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__11</nummer>
+        <ort>Schaffhausen</ort>
+        <text>City-Garage AMAG</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__12</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Etzwilerunterführung</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__13</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Fulacherbürgli</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__14</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Schönenberg</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__15</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Galerie</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__19</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Kammgarn</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__20</nummer>
+        <ort>Neuhausen am Rheinfall</ort>
+        <text>Schaffhauser- / Mühlenstrasse (LSA Bahntal Neubau)</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__21</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Rheinweg</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__22</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Brüggli</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__24</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Mühlentor</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__26</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Obertor</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__27</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Steig-/ Stokarbergstrasse</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH__91</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Schlagbaumstrasse</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH___4</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Brückenkopf</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH___5</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Badanstallt (778)</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH___8</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Schützengraben</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SH___9</nummer>
+        <ort>Schaffhausen</ort>
+        <text>Schwabentor</text>
+        <gruppe>Kanton SH (5)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_10</nummer>
+        <ort>Solothurn</ort>
+        <text>Biel-/ Langendorfstrasse (Wildbachkreuzung)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_16</nummer>
+        <ort>Solothurn</ort>
+        <text>Biel-/ Weissensteinstrasse (Pflug)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_17</nummer>
+        <ort>Solothurn</ort>
+        <text>Biel-/ Wengistrasse (Hermesbühlplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_18</nummer>
+        <ort>Solothurn</ort>
+        <text>Biel-/ Werkhofstrasse (Reinertsgärtli)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_19</nummer>
+        <ort>Solothurn</ort>
+        <text>Werkhof-/ Westringstrasse (Ref. Kirche)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_20</nummer>
+        <ort>Solothurn</ort>
+        <text>Untere Steingruben-/ Werkhofstrasse (Konzertsaal)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_22</nummer>
+        <ort>Solothurn</ort>
+        <text>Basel-/ Rötistrasse (Baseltor)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_25</nummer>
+        <ort>Solothurn</ort>
+        <text>Bahnhofplatz / Rötistrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_32</nummer>
+        <ort>Solothurn</ort>
+        <text>West-/ Weissensteinstrasse (Entlastung)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_33</nummer>
+        <ort>Solothurn</ort>
+        <text>Allmend-/Gibelinstrasse (Allmend)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_34</nummer>
+        <ort>Solothurn</ort>
+        <text>Guggershofstrasse (Obach)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_43</nummer>
+        <ort>Solothurn</ort>
+        <text>Dornacherstrasse (Juraplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_45</nummer>
+        <ort>Solothurn</ort>
+        <text>Luzernstrasse (Bahnhofausfahrt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_47</nummer>
+        <ort>Solothurn</ort>
+        <text>Schöngrün</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_50</nummer>
+        <ort>Solothurn</ort>
+        <text>Luzerner-/ Bechburgstrasse (Bahnhofsparking Ost)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SOLO_55</nummer>
+        <ort>Solothurn</ort>
+        <text>Baselstrasse / Untere Sternengasse (Baselstrasse / Untere Sternengasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SO_209</nummer>
+        <ort>Niedergösgen</ort>
+        <text>Oltnerstrasse / Kreuzstrasse (FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SO_B01</nummer>
+        <ort>Solothurn</ort>
+        <text>Berntorstrasse (LSA Berntor (Bus))</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SO_ZRSO_1</nummer>
+        <ort>Solothurn</ort>
+        <text>Rechnerraum Polizei Werkhofstrasse 33 (Zentralrechner Solothurn/Olten ZRSO)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SO___1</nummer>
+        <ort>Grenchen</ort>
+        <text>Kapellstrasse / Girardstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SO___5</nummer>
+        <ort>Neuendorf</ort>
+        <text>Industriestrasse 9</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ST_ROZ</nummer>
+        <ort>Stans</ort>
+        <text>Rotzlochstrasse / Rotzwinkel</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ST___5</nummer>
+        <ort>Stans</ort>
+        <text>Stansstaderstrasse / Spichermattstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SUBI_10</nummer>
+        <ort>Subingen</ort>
+        <text>Kriegstettenstrasse (Bue (SO___3))</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SG_650</nummer>
+        <ort>Reichenburg</ort>
+        <text>Zubringer Reichenburg / Einmündung Speerstrasse N15/10</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ__11</nummer>
+        <ort>Altendorf</ort>
+        <text>Zürcher-/ Bahnhof-/ Neustalstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ__12</nummer>
+        <ort>Altendorf</ort>
+        <text>Zürcher-/ Churer-/ Seestattstrasse (Dorfplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ__14</nummer>
+        <ort>Feusisberg</ort>
+        <text>Firststrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ__15</nummer>
+        <ort>Siebnen</ort>
+        <text>Glarner-/ Stachelhofstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ__16</nummer>
+        <ort>Schindellegi</ort>
+        <text>Vogelnest-/ Dorf-/ Wolleraustrasse (Vogelnest)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ___7</nummer>
+        <ort>Hurden</ort>
+        <text>Seedamm-/ Hurdenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>SZ___8</nummer>
+        <ort>Seewen</ort>
+        <text>Umfahrungsstrasse / Steinbislin / Seewenmarkt</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>TG_298</nummer>
+        <ort>Sulgen</ort>
+        <text>Haupt-/ Industriestrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>TG__26</nummer>
+        <ort>Kreuzlingen</ort>
+        <text>Wasenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>TG__50</nummer>
+        <ort>Arbon</ort>
+        <text>St. Galler-/ Klarastrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>TG_708</nummer>
+        <ort>Wiedehorn</ort>
+        <text>Egnacherstrasse / Buch (Zubringer N1)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>UR___1</nummer>
+        <ort>Göschenen</ort>
+        <text>Installationsplatz G4</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>VS___1</nummer>
+        <ort>Visp</ort>
+        <text>Kantonsstrasse (Eyholz FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>VS___2</nummer>
+        <ort>Stalden</ort>
+        <text>Talstrasse / Bahnhofstrasse (Zufahrt West: Hauptstrasse - Bahnhofplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>VS___3</nummer>
+        <ort>Leuk</ort>
+        <text>Umfahrungsstrasse (FGST H30_10+150)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>VS___4</nummer>
+        <ort>Stalden</ort>
+        <text>Talstrasse (FGST H212_90+550 Stalden)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>VS___5</nummer>
+        <ort>Geschinen</ort>
+        <text>FGST H19_360+100</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>VS___6</nummer>
+        <ort>Inden</ort>
+        <text>FGST HG30_100+755</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_102</nummer>
+        <ort>Winterthur</ort>
+        <text>Holderplatz</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_104</nummer>
+        <ort>Winterthur</ort>
+        <text>Technikumstrasse (Neumarkt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_105</nummer>
+        <ort>Winterthur</ort>
+        <text>Meisenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_106</nummer>
+        <ort>Winterthur</ort>
+        <text>Technikum / Archplatz</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_108</nummer>
+        <ort>Winterthur</ort>
+        <text>Schützenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_109</nummer>
+        <ort>Winterthur</ort>
+        <text>Brühleck</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_110</nummer>
+        <ort>Winterthur</ort>
+        <text>Neuwiesenstrasse (Grünau)</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_111</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflinger-/ Bachtelstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_112</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflinger-/ Schlosserstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_113</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflinger-/ Habsburgerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_114</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflinger-/ Neuwiesenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_115</nummer>
+        <ort>Winterthur</ort>
+        <text>Schaffhauserplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_116</nummer>
+        <ort>Winterthur</ort>
+        <text>St. Georgenplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_117</nummer>
+        <ort>Winterthur</ort>
+        <text>St. Georgen-/ Theaterstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_118</nummer>
+        <ort>Winterthur</ort>
+        <text>Lind-/ St. Georgenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_119</nummer>
+        <ort>Winterthur</ort>
+        <text>General Guisan-/ St. Georgenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_123</nummer>
+        <ort>Winterthur</ort>
+        <text>Lind-/ Museumstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_124</nummer>
+        <ort>Winterthur</ort>
+        <text>Jonas Furrer-Platz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_127</nummer>
+        <ort>Winterthur</ort>
+        <text>Lind-/ Haldenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_128</nummer>
+        <ort>Winterthur</ort>
+        <text>Lindspitz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_130</nummer>
+        <ort>Winterthur</ort>
+        <text>Schaffhauser-/ Seuzacherstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_131</nummer>
+        <ort>Winterthur</ort>
+        <text>Schaffhauser-/ Feldwiesenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_135</nummer>
+        <ort>Winterthur</ort>
+        <text>Seuzacher-/ Feldwiesenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_203</nummer>
+        <ort>Winterthur</ort>
+        <text>Tösstal-/ Weberstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_205</nummer>
+        <ort>Winterthur</ort>
+        <text>Römer-/ Pflanzschulstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_206</nummer>
+        <ort>Winterthur</ort>
+        <text>St. Galler-/ Pflanzschulstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_207</nummer>
+        <ort>Winterthur</ort>
+        <text>St. Galler-/ Thurgauerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_208</nummer>
+        <ort>Winterthur</ort>
+        <text>Thurgauer-/ Geiselweidstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_209</nummer>
+        <ort>Winterthur</ort>
+        <text>Thurgauer-/ Römerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_210</nummer>
+        <ort>Winterthur</ort>
+        <text>St. Galler-/ Grüzefeld-/ Geiselweidstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_211</nummer>
+        <ort>Winterthur</ort>
+        <text>St. Galler-/ Talackerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_299</nummer>
+        <ort>Winterthur</ort>
+        <text>Schühlerverkehrsgarten</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_402</nummer>
+        <ort>Winterthur</ort>
+        <text>Seenerstrasse / Hegifeldstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_403</nummer>
+        <ort>Winterthur</ort>
+        <text>Frauenfelder-/ Seenerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_404</nummer>
+        <ort>Winterthur</ort>
+        <text>Frauenfelderstrasse / Bhf Oberwinterthur (Bahnhof Oberwinterthur)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_405</nummer>
+        <ort>Winterthur</ort>
+        <text>Frauenfelder-/ Stadlerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_406</nummer>
+        <ort>Winterthur</ort>
+        <text>Frauenfelder-/ Albert-Einsteinstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_407</nummer>
+        <ort>Winterthur</ort>
+        <text>Stadlerstrasse (Im Guggenbühl FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_408</nummer>
+        <ort>Winterthur</ort>
+        <text>Stadlerstrasse (Krankenheim FG-LSA)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_451</nummer>
+        <ort>Winterthur</ort>
+        <text>Frauenfelder-/ Dorf-/ Hegistrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_505</nummer>
+        <ort>Winterthur</ort>
+        <text>Tösstal-/Kanzleistrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_510</nummer>
+        <ort>Winterthur</ort>
+        <text>Tösstalstrasse (Sennhof)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_600</nummer>
+        <ort>Winterthur</ort>
+        <text>Zürcher-/ Jägerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_601</nummer>
+        <ort>Winterthur</ort>
+        <text>Zürcher-/ Untere Briggerstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_602</nummer>
+        <ort>Winterthur</ort>
+        <text>Zürcher-/ Schlosstalstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_603</nummer>
+        <ort>Winterthur</ort>
+        <text>Zürcher-/ Emil Klöti-/ Stationsstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_604</nummer>
+        <ort>Winterthur</ort>
+        <text>Zürcher-/ Klosterstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_605</nummer>
+        <ort>Töss</ort>
+        <text>Zürcherstrasse / Anschluss Töss (LSA Anschluss Töss)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_606</nummer>
+        <ort>Winterthur</ort>
+        <text>Untere Vogelsang- / Breitestrasse (Storchenbrücke)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_610</nummer>
+        <ort>Winterthur</ort>
+        <text>Hedy Hahnloser-/ Neubruchstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_802</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflingerstrasse / Oberfeldweg</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_804</nummer>
+        <ort>Wülflingen</ort>
+        <text>Salomon Hirzelstrasse Ost</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_805</nummer>
+        <ort>Wülflingen</ort>
+        <text>Salomon Hirzelstrasse West</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_809</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflinger-/Salomon Hirzel-Strasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>WI_B_1</nummer>
+        <ort>Winterthur</ort>
+        <text>Mobiles Baustellengerät</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_06</nummer>
+        <ort>Zug</ort>
+        <text>Baarer-/ Feld-/ Göblistrasse</text>
+        <gruppe>Stadt ZG (16)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_07</nummer>
+        <ort>Zug</ort>
+        <text>Baarer-/ Ahornstrasse</text>
+        <gruppe>Stadt ZG (16)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_11</nummer>
+        <ort>Zug</ort>
+        <text>Chamer-/ Letzistrasse</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_13</nummer>
+        <ort>Zug</ort>
+        <text>Chamer-/ Chollerstrasse (Chollermühle)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_902</nummer>
+        <ort>Zug</ort>
+        <text>Industriestrasse / Lüssiweg</text>
+        <gruppe>Stadt ZG (16)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_903</nummer>
+        <ort>Zug</ort>
+        <text>Industrie-/ Göblistrasse</text>
+        <gruppe>Stadt ZG (16)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG04_11</nummer>
+        <ort>Menzingen</ort>
+        <text>Chrüzegg Bus-Signalisation</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG05_04</nummer>
+        <ort>Baar</ort>
+        <text>Lang-/ Bühl-/  Rigistrasse / Marktgasse (Bühlplatz)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG05_07</nummer>
+        <ort>Baar</ort>
+        <text>Sihlbruggstrasse (Anschluss A4 / Walterswil)</text>
+        <gruppe>Kanton LU (10)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG05_12</nummer>
+        <ort>Baar</ort>
+        <text>Südstrasse (Busüberführung)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG05_15</nummer>
+        <ort>Baar</ort>
+        <text>Sihlbrugg-/ Ruessenstrasse</text>
+        <gruppe>Kanton LU (10)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG05_17</nummer>
+        <ort>Baar</ort>
+        <text>West-/ Landhausstrasse</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG06_03</nummer>
+        <ort>Rumentikon (Cham)</ort>
+        <text>Dorf-/Schützenhausstrasse (Sternenrank)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG06_04</nummer>
+        <ort>Cham</ort>
+        <text>Luzerner-/ Bahnhofstrasse</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG08_01</nummer>
+        <ort>Steinhausen</ort>
+        <text>Hinterbergstrasse (Ausfahrt EKZ)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG08_02</nummer>
+        <ort>Steinhausen</ort>
+        <text>Hinterbergstrasse (Strassenverkehrsamt)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG08_03</nummer>
+        <ort>Steinhausen</ort>
+        <text>Hinterbergstrasse (Einfahrt EKZ Süd)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_101</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neugut-/ Hofstrasse (Im Schwanen)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_102</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neugutstrasse (Ausfahrt A1)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_105</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Rohr-/ Rohrholzstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_106</nummer>
+        <ort>Dübendorf</ort>
+        <text>Überland-/ Ringstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_108</nummer>
+        <ort>Volketswil</ort>
+        <text>Umfahrungsstrasse (Einfahrt K 53 Fb Uster)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_109</nummer>
+        <ort>Volketswil</ort>
+        <text>Umfahrungsstrasse (Ein- Ausfahrt K 53 Fb Zürich)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_110</nummer>
+        <ort>Zollikon</ort>
+        <text>Forch-/ Rietholzstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_111</nummer>
+        <ort>Zollikon</ort>
+        <text>Forch-/ Rüterwiesstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_114</nummer>
+        <ort>Buchs</ort>
+        <text>Furttal-/ Bahnhofstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_115</nummer>
+        <ort/>
+        <text>Dorf-/ Niederhasli-/ Rümlanger-/ Unterdorfstr.</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_116</nummer>
+        <ort>Rümlang</ort>
+        <text>Birch-/ Europastrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_118</nummer>
+        <ort>Glattbrugg</ort>
+        <text>Schaffhauser-/ Giebeleich- / Sägereistrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_119</nummer>
+        <ort>Rümlang</ort>
+        <text>Busengpasssteuerung / Bäulerwisenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_123</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcher-/ Flöhrebenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_126</nummer>
+        <ort>Dübendorf</ort>
+        <text>Überlandstrasse Stadtgrenze</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_128</nummer>
+        <ort>Wetzikon</ort>
+        <text>Zürcher-/ Schellerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_130</nummer>
+        <ort>Thalwil</ort>
+        <text>Zürcher-/ Sonnenbergstrasse</text>
+        <gruppe>KAPO ZH (6)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_134</nummer>
+        <ort>Grüningen</ort>
+        <text>Stedtligasse (Engpasssteuerung)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_136</nummer>
+        <ort>Wallisellen</ort>
+        <text>Alte Winterthurer-/ Weststrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_138</nummer>
+        <ort>Regensdorf</ort>
+        <text>Neu Wehntaler-/ Buchserstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_139</nummer>
+        <ort>Regensdorf</ort>
+        <text>Wehntaler-/ Neue Wehntalerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_140</nummer>
+        <ort>Schlieren</ort>
+        <text>Bern-/ Gasometerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_141</nummer>
+        <ort>Zollikon</ort>
+        <text>Forch-/ Binzstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_142</nummer>
+        <ort>Feuerthalen</ort>
+        <text>Diessenhofer-/ Schützenstrasse (Coop)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_145</nummer>
+        <ort>Dietlikon</ort>
+        <text>Neue Winterthurer-/ Bahnhof-/ Dübendorfstrasse (Jumbo)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_146</nummer>
+        <ort>Oberengstringen</ort>
+        <text>Zürcher-/ Dorf-/ Rütihofstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_147</nummer>
+        <ort>Zollikon</ort>
+        <text>Zolliker-/ Alte Land-/ Friedhofstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_148</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcherstrasse / Hüblerweg ("Ein- Ausfahrt ""Ford""")</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_150</nummer>
+        <ort>Dietikon</ort>
+        <text>Bern-/ Bremgartnerstrasse (BUe Honeret)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_151</nummer>
+        <ort>Dübendorf</ort>
+        <text>Ueberland-/ Neuhofstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_155</nummer>
+        <ort>Volketswil</ort>
+        <text>Uster-/ Industriestrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_159</nummer>
+        <ort>Wetzikon</ort>
+        <text>Bahnhof-/ Post-/ Rapperswilerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_160</nummer>
+        <ort>Rümlang</ort>
+        <text>Flughof-/ Birchstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_167</nummer>
+        <ort>Hinwil</ort>
+        <text>Zürich-/ Industriestrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_168</nummer>
+        <ort>Uitikon - Waldegg</ort>
+        <text>Birmensdorfer-/ Zürcherstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_169</nummer>
+        <ort>Dietikon</ort>
+        <text>Zürcher-/ Spitalstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_170</nummer>
+        <ort>Dietikon</ort>
+        <text>Bern-/ Zürcherstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_171</nummer>
+        <ort>Dietikon</ort>
+        <text>Bern-/ Zürcherstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_173</nummer>
+        <ort>Urdorf</ort>
+        <text>Bern-/ Birmensdorferstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_174</nummer>
+        <ort>Urdorf</ort>
+        <text>Bernstrasse / Anschluss A3 FLU</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_180</nummer>
+        <ort>Seegräben (Aathal)</ort>
+        <text>Zürich-/Gstalderstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_183</nummer>
+        <ort>Pfäffikon</ort>
+        <text>Kempttal-/ Hoch-/ Seestrasse (Kronenplatz)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_185</nummer>
+        <ort>Uster</ort>
+        <text>Aathalstrasse (Anschluss Uster Ost)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_188</nummer>
+        <ort>Rümlang</ort>
+        <text>Europa-/ Bäulerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_190</nummer>
+        <ort>Adliswil</ort>
+        <text>Albis-/ Sihlstrasse (Mühlebrücke)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_191</nummer>
+        <ort>Dietikon</ort>
+        <text>Oberdorf-/ Windegg-/ Hasenbergstrasse (Ochsenkreuzung)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_193</nummer>
+        <ort>Kloten</ort>
+        <text>Lufinger-/ Bülacherstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_195</nummer>
+        <ort>Birmensdorf</ort>
+        <text>Aargauerstrasse (A3 E BI-BS)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_196</nummer>
+        <ort>Birmensdorf</ort>
+        <text>Aargauerstrasse (A3 E BI-CH)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_197</nummer>
+        <ort>Birmensdorf</ort>
+        <text>Luzernerstrasse (Ausfahrt A3)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_198</nummer>
+        <ort>Birmensdorf-Wettswil</ort>
+        <text>Luzernerstrasse (A4 Anschluss Wettswil)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_199</nummer>
+        <ort>Wettswil</ort>
+        <text>Luzerner-/ Moosstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_200</nummer>
+        <ort>Wettswil</ort>
+        <text>Moosstrasse (A4 E WEW - ZH)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_201</nummer>
+        <ort>Küsnacht</ort>
+        <text>See-/ Gartenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_203</nummer>
+        <ort>Hinwil</ort>
+        <text>Zürichstrasse / Pilgerweg (Pilgerweg)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_204</nummer>
+        <ort>Weiningen</ort>
+        <text>Überland-/ Niederholz-/ Fahrweidstrasse (Kreisel)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_207</nummer>
+        <ort>Buchs</ort>
+        <text>Furttal-/ Zürcher-/ Dällikerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_208</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neue Winterthurerstrasse / Im Langacker</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_210</nummer>
+        <ort>Bonstetten</ort>
+        <text>Zürcher-/ Stationsstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_211</nummer>
+        <ort>Hedingen</ort>
+        <text>Zürcher-/ Maienbrunnenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_212</nummer>
+        <ort>Affoltern A. A.</ort>
+        <text>Zürich-/ Muristrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_213</nummer>
+        <ort>Obfelden</ort>
+        <text>Muri-/ Obfelderstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_214</nummer>
+        <ort>Obfelden</ort>
+        <text>Muristrasse (A4 EAFO-ZH)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_215</nummer>
+        <ort>Obfelden</ort>
+        <text>Muristrasse (A4 EAFO-LU)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_217</nummer>
+        <ort>Volketswil</ort>
+        <text>Uster-/ Rebacherstrasse / Ausfahrt A53</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_218</nummer>
+        <ort>Birmensdorf</ort>
+        <text>Urdorfer-/ Waffenplatzstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_219</nummer>
+        <ort>Bonstetten</ort>
+        <text>Stations-/ Isenbachstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_221</nummer>
+        <ort>Dietlikon</ort>
+        <text>Neue Winterthurer-/ Macchi-Areal</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_222</nummer>
+        <ort>Schlieren</ort>
+        <text>Bern-/ Rietbachstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_223</nummer>
+        <ort>Hinwil</ort>
+        <text>Winterthurer-/ Überlandstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_224</nummer>
+        <ort>Fällanden</ort>
+        <text>Dübendorf-/ Schwerzenbachstrasse (Busbeschleunigung)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_225</nummer>
+        <ort>Wetzikon</ort>
+        <text>Rapperswiler-/ Grubenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_227</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Thurgauer-/ Glattpark-/ Talackerstrasse (Ambassador)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_229</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Glattpark-/ Leutschenbachstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_230</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Glattpark-/ Aubrugg-/ Hagenholzstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_232</nummer>
+        <ort>Dübendorf</ort>
+        <text>Überland-/ Giessen-/ E. Amstutz-Strasse (EMPA)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_233</nummer>
+        <ort>Bassersdorf-Baltenswil</ort>
+        <text>Neue Winterthurer-/ Bassersdorferstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_235</nummer>
+        <ort>Wangen-Brüttisellen</ort>
+        <text>Zürich-/ Neue Stationsstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_237</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Birch-/ Rohrstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_251</nummer>
+        <ort>Wangen-Brüttisellen</ort>
+        <text>Weid- / Förliwiesenstrasse (Ein- Ausfahrt A53)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_255</nummer>
+        <ort>Dübendorf</ort>
+        <text>Zürichstrasse (Ausfahrt Bahnhof Stettbach)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_257</nummer>
+        <ort>Oberglatt</ort>
+        <text>Kaiserstuhl-/ Lägernstrasse (LIDL)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_259</nummer>
+        <ort>Affoltern A. A.</ort>
+        <text>Obfelder-/Moosbachstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_260</nummer>
+        <ort>Schlieren</ort>
+        <text>Badener-/ Storchenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_261</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neugut-/ Güterstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_264</nummer>
+        <ort>Illnau-Effretikon</ort>
+        <text>Weisslingerstrasse / Busbevorzugung (Busbevorzugung)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_265</nummer>
+        <ort>Bassersdorf</ort>
+        <text>"Klotener-/ Grindelstrasse ""Spange""" (Spange)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_270</nummer>
+        <ort>Wetzikon</ort>
+        <text>Zürcher-/ Haldenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_271</nummer>
+        <ort>Regensdorf</ort>
+        <text>Wehntaler-/ Gheid-/ Bachtobelstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_280</nummer>
+        <ort>Bülach</ort>
+        <text>Grenz-/ Feldstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_281</nummer>
+        <ort>Bachenbülach</ort>
+        <text>Grenz-/ Graben-/ Ifangstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_282</nummer>
+        <ort>Kloten</ort>
+        <text>Bassersdorfer-/ Klotener-/ Steinackerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_283</nummer>
+        <ort>Dietikon</ort>
+        <text>Bern-/ Zürichstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_290</nummer>
+        <ort>Rorbas</ort>
+        <text>Weiacherstrasse / Kirchgasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_297</nummer>
+        <ort>Dietikon</ort>
+        <text>Ueberlandstrasse / Wendehammer (Wendehammer)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_298</nummer>
+        <ort>Bülach</ort>
+        <text>Schaffhauser-/ Fangleten-/ Schützenmattstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_300</nummer>
+        <ort>Wangen-Brüttisellen</ort>
+        <text>Weidstrasse / Autobahnanschluss West</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_301</nummer>
+        <ort>Bülach</ort>
+        <text>Schaffhauser-/ Glasshüttenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_302</nummer>
+        <ort>Dietikon</ort>
+        <text>Überland-/ Limmatfeld-/ Altbergstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_303</nummer>
+        <ort>Dietikon</ort>
+        <text>Überlandstrasse Limmatpromenade FG-Übergang</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_304</nummer>
+        <ort>Schlieren</ort>
+        <text>Querung Badenerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_305</nummer>
+        <ort>Schlieren</ort>
+        <text>Spital-/ Färberhüslistrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_306</nummer>
+        <ort>Schlieren</ort>
+        <text>Spital-/Schönenwerdstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_307</nummer>
+        <ort>Urdorf</ort>
+        <text>In der Luberzen / Zufahrt Kantonsschule</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_308</nummer>
+        <ort>Urdorf</ort>
+        <text>In der Luberzen / Im Grossherweg</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_309</nummer>
+        <ort>Urdorf</ort>
+        <text>Querung in der Luberzen</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_310</nummer>
+        <ort>Urdorf</ort>
+        <text>Birmensdorferstrasse / in der Luberzen</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_327</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neue Winterthurerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_331</nummer>
+        <ort>Bassersdorf</ort>
+        <text>Baltenswiler-/ Zürichstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_334</nummer>
+        <ort>Uster</ort>
+        <text>Winterthurer-/ Haberweidstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_904</nummer>
+        <ort>Kloten</ort>
+        <text>Zürcherstrasse Busausfahrt (Torsteuerung Tierheim)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_P01</nummer>
+        <ort>Flughafen Kloten</ort>
+        <text>Anlieferung Terminal A+B</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_P05</nummer>
+        <ort>Zürich</ort>
+        <text>Parkhaussteuerung Tessinerplatz</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_P06</nummer>
+        <ort>Birmensdorf</ort>
+        <text>Aargauerstrasse / Lielistrasse (Schönegg)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__10</nummer>
+        <ort>Kloten</ort>
+        <text>Schaffhauser-/ Flughafen-/ Dorfstrasse (Wilder Mann)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__11</nummer>
+        <ort>Dietikon</ort>
+        <text>Überland-/ Weiningerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__17</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Schaffhauser- / Hohenbühlstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__20</nummer>
+        <ort>Dübendorf</ort>
+        <text>Uster-/ Bahnhof-/ Wil- / Zürichstrasse (Im Städtli)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__21</nummer>
+        <ort>Kloten</ort>
+        <text>Schaffhauser-/ Neubrunnenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__22</nummer>
+        <ort>Kloten</ort>
+        <text>Schaffhauser-/ Breitistrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__23</nummer>
+        <ort>Dübendorf</ort>
+        <text>Ring-/ Neugutstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__25</nummer>
+        <ort>Maur-Binz</ort>
+        <text>Zürich-/ Binzstrasse (Bus-LSA)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__26</nummer>
+        <ort>Ottenbach</ort>
+        <text>Muri-/ Zwilliker-/ Affoltern-/ Jonenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__28</nummer>
+        <ort>Dietikon</ort>
+        <text>Überland-/ Heimstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__29</nummer>
+        <ort>Hinwil</ort>
+        <text>Zürich-/ Winterthurerstrasse (Bührerkreuzung)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__31</nummer>
+        <ort>Wangen-Brüttisellen</ort>
+        <text>Zürich-/ Stationsstrasse (Flamingo)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__32</nummer>
+        <ort>Zollikon</ort>
+        <text>Forch-/ Trichtenhauserstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__34</nummer>
+        <ort>Schlieren</ort>
+        <text>Badener- / Kesslerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__36</nummer>
+        <ort>Feuerthalen</ort>
+        <text>Zürcher-/ Diessenhoferstrasse (Fürstengut)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__39</nummer>
+        <ort>Stäfa</ort>
+        <text>See-/ Oberlandstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__40</nummer>
+        <ort>Dietlikon</ort>
+        <text>Neue Winterthurer-/ Industrie-/ Pappelstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__41</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neugut-/Husacherstrasse (Ausfahrt Glattzentrum)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__44</nummer>
+        <ort>Adliswil</ort>
+        <text>Sood-/ Sihltal-/ Leimbachstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__47</nummer>
+        <ort>Egg</ort>
+        <text>Forchstr- / Neue Meilenerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__48</nummer>
+        <ort>Kloten</ort>
+        <text>Flughafenstrasse (Anschluss A51, Kloten Süd)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__50</nummer>
+        <ort>Dietikon</ort>
+        <text>Überland-/ Mutschellenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__51</nummer>
+        <ort>Lindau</ort>
+        <text>Zürcher-/ Lindaustrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__54</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcher-/ Gasometerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__55</nummer>
+        <ort>Flurlingen</ort>
+        <text>Winterthurerstrasse (Ausfahrt A4 (FSH))</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__56</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcher-/ Allmend-/ Wagistrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__57</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcher-/ Grabenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__58</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcher-/ Engstringerstrasse ("""Stadtplatz""")</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__59</nummer>
+        <ort>Schlieren</ort>
+        <text>Zürcher-/ Neue Fossertstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__60</nummer>
+        <ort>Schlieren</ort>
+        <text>Badenerstrasse (Einfahrt Wendeschlaufe)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__61</nummer>
+        <ort>Schlieren</ort>
+        <text>Badener-/ Bachstrasse (Haltestelle Geissweid)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__62</nummer>
+        <ort>Schlieren</ort>
+        <text>Badener-/ Nassacker-/ Goldschlägistrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__63</nummer>
+        <ort>Schlieren</ort>
+        <text>Badener-/ Kleinzelglistrasse / Reitmen</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__64</nummer>
+        <ort>Wetzikon</ort>
+        <text>Zürcher-/ Bahnhof-/ Poststrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__65</nummer>
+        <ort>Dietlikon</ort>
+        <text>Neue Winterthurer-/ Industriestrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__66</nummer>
+        <ort>Weiningen</ort>
+        <text>Zürcher-/ Badener-/ Regensdorferstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__67</nummer>
+        <ort>Langnau a. Albis</ort>
+        <text>Sihltalstrasse / Sihlmatte Nord (Sonvico-Übergang)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__71</nummer>
+        <ort>Dübendorf</ort>
+        <text>Zürich-/ Hochbordstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__72</nummer>
+        <ort>Dübendorf</ort>
+        <text>Überland-/ Wallisellen-/ Zwinggartenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__74</nummer>
+        <ort>Regensdorf</ort>
+        <text>Höngger-/ Weiningerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__75</nummer>
+        <ort>Regensdorf</ort>
+        <text>Ostring / Affoltern-/ Hönggerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__76</nummer>
+        <ort>Regensdorf</ort>
+        <text>Affoltern-/ Watterstrasse / Engstringerweg</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__77</nummer>
+        <ort>Bülach</ort>
+        <text>Winterthurer-/ Bahnhof-/ Schaffhauserstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__81</nummer>
+        <ort>Wetzikon</ort>
+        <text>Zürcher-/ West-/ Bertschikerstrasse (Medikon)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__83</nummer>
+        <ort>Opfikon-Glattbrugg</ort>
+        <text>Birch-/ Flughofstrasse (Haltestelle Balsberg)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__84</nummer>
+        <ort>Kilchberg</ort>
+        <text>See-/ Dorfstrasse (Löwenkreuzung)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__86</nummer>
+        <ort>Birmensdorf</ort>
+        <text>Wettswilerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__87</nummer>
+        <ort>Dietikon</ort>
+        <text>Bremgartner-/ Windegg-/ Guggenbühlstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__90</nummer>
+        <ort>Dübendorf</ort>
+        <text>Zürich-/ Gockhauser-/ Ringstrasse (Sonnental)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__92</nummer>
+        <ort>Schlieren</ort>
+        <text>Bern-/ Reitmenstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__94</nummer>
+        <ort>Wallisellen</ort>
+        <text>Überland-/ Neu Winterthurerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__95</nummer>
+        <ort>Wangen-Brüttisellen</ort>
+        <text>Zürichstrasse / Ausfahrt A1</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__96</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neugutstrassse / Zwickystrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__98</nummer>
+        <ort>Dübendorf</ort>
+        <text>Überland-/ Hochbordstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH__99</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neue Winterthurerstrasse (Spirale)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH___1</nummer>
+        <ort>Andelfingen</ort>
+        <text>Schaffhauserstrasse (Thurbrücke2)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH___3</nummer>
+        <ort>Wallisellen</ort>
+        <text>Neue Winterthurer-/Neugutstrasse (Hofkreuzung)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH___9</nummer>
+        <ort>Schlieren</ort>
+        <text>Bern-/ Engstringerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZUCH_12</nummer>
+        <ort>Zuchwil</ort>
+        <text>Luzernstrasse / Waldeggstrasse (Waldegg)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZUCH_51</nummer>
+        <ort>Zuchwil</ort>
+        <text>Luzernstrasse (Aarmatt)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZUCH_52</nummer>
+        <ort>Zuchwil</ort>
+        <text>Haupt-/ Langfeldstrase (Kreuzplatz)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_101</nummer>
+        <ort>Aarau</ort>
+        <text>Bahnhof-/Feerstrasse (Feerstrasse / Ausfahrt Bahnhof)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_102</nummer>
+        <ort>Aarau</ort>
+        <text>Asylstrasse (Asylstrasse)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_103</nummer>
+        <ort>Aarau</ort>
+        <text>Mühlemattstrasse (Mühlematt)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_104</nummer>
+        <ort>Aarau</ort>
+        <text>Girixweg (Tellizentrum)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_105</nummer>
+        <ort>Aarau</ort>
+        <text>Hallwyl-/ Entfelderstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_106</nummer>
+        <ort>Aarau</ort>
+        <text>Binzenhof / Entfelderstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_107</nummer>
+        <ort>Aarau</ort>
+        <text>Distelberg</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_108</nummer>
+        <ort>Kölliken</ort>
+        <text>Muhen Hard</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_109</nummer>
+        <ort>Aarau</ort>
+        <text>Pförtner Wöschnau</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_110</nummer>
+        <ort>Aarau</ort>
+        <text>Rain FG-LSA</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_111</nummer>
+        <ort>Aarau</ort>
+        <text>Kasinostrasse (Kasino)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_112</nummer>
+        <ort>Aarau</ort>
+        <text>Bahnhof-/Poststrasse (Poststrasse / Bhf Aarau)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_113</nummer>
+        <ort>Aarau</ort>
+        <text>Kreuzplatz (Kreuzplatz)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_114</nummer>
+        <ort>Aarau</ort>
+        <text>Weiergut</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_115</nummer>
+        <ort>Aarau</ort>
+        <text>Suhrebrücke</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_116</nummer>
+        <ort>Buchs</ort>
+        <text>Brestenegg</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_117</nummer>
+        <ort>Suhr</ort>
+        <text>Migros</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_118</nummer>
+        <ort>Aarau</ort>
+        <text>Laurenzenvorstadt FG-LSA</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_120</nummer>
+        <ort>Aarau</ort>
+        <text>Sauerländer</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_121</nummer>
+        <ort>Aarau</ort>
+        <text>Bavaria</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_122</nummer>
+        <ort>Buchs - Suhr</ort>
+        <text>Bühlstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_123</nummer>
+        <ort>Suhr</ort>
+        <text>Bern / Tramstrasse (Knoten Bären)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_124</nummer>
+        <ort>Suhr</ort>
+        <text>Bernstrasse / Helgenfeldstrasse (Knoten Kreuz)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_125</nummer>
+        <ort>Suhr</ort>
+        <text>Ringstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_127</nummer>
+        <ort>Aarau</ort>
+        <text>Kreisel Gais</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_128</nummer>
+        <ort>Aarau</ort>
+        <text>Behmen</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_130</nummer>
+        <ort>Aarau</ort>
+        <text>Hintere Bahnhofstrasse (Hintere Bahnhofstrasse WSB)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_131</nummer>
+        <ort>Unterentfelden</ort>
+        <text>Erlifeldstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_132</nummer>
+        <ort>Unterentfelden</ort>
+        <text>Feldstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_135</nummer>
+        <ort>Ober-/ Unterentfelden</ort>
+        <text>Suhrentalstrasse (VZ-Gerät)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_136</nummer>
+        <ort>Buchs</ort>
+        <text>Mitteldorfstrasse (Bue Kreisel)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_138</nummer>
+        <ort>Aarau</ort>
+        <text>Ausfahrt T5 Rohr</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_139</nummer>
+        <ort>Aarau</ort>
+        <text>Kreisel Telli</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_140</nummer>
+        <ort>Aarau</ort>
+        <text>Mühlematt</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_141</nummer>
+        <ort>Küttigen</ort>
+        <text>Bibersteinstrasse (Kreisel Süd)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_142</nummer>
+        <ort>Küttigen</ort>
+        <text>Kreisel Küttingen Nord</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_201</nummer>
+        <ort>Brugg</ort>
+        <text>Neumarkt</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_203</nummer>
+        <ort>Brugg</ort>
+        <text>Vorstadt / Schützenmatt (Casino)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_204</nummer>
+        <ort>Brugg</ort>
+        <text>Baslerstrasse / Vorstadt / Hauptstrasse (Zollplätzli)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_212</nummer>
+        <ort>Lupfig</ort>
+        <text>A3 Anschluss Lupfig</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_213</nummer>
+        <ort>Lupfig</ort>
+        <text>Lenzburger-/ Bahnhofstrase (Birrfeld)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_214</nummer>
+        <ort>Birr</ort>
+        <text>Lenzburger-/ Zentralstrasse (ABB)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_220</nummer>
+        <ort>Rütene - Brugg</ort>
+        <text>Aarauerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_221</nummer>
+        <ort>Brugg / Hausen</ort>
+        <text>Schul-/ Bahnhofstrasse (Steinmatte)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_306</nummer>
+        <ort>Killwangen</ort>
+        <text>Schul-/ Bahnhofstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_307</nummer>
+        <ort>Bergdietikon</ort>
+        <text>Reppischtal</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_312</nummer>
+        <ort>Neuenhof</ort>
+        <text>Kreuzstein</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_314</nummer>
+        <ort>Wettingen</ort>
+        <text>Kloster</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_315</nummer>
+        <ort>Neuenhof</ort>
+        <text>Zürcher-/ Neuenhofer-/ Krummbachstrasse (Webermühle)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_317</nummer>
+        <ort>Spreitenbach</ort>
+        <text>Limmatstrasse (Bue)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_318</nummer>
+        <ort>Baden</ort>
+        <text>Sonnmatt</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_320</nummer>
+        <ort>Baden</ort>
+        <text>Linde FG-LSA</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_321</nummer>
+        <ort>Baden</ort>
+        <text>Schulhausplatz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_322</nummer>
+        <ort>Baden</ort>
+        <text>Wettingerstrasse / Seminarstrasse (Brückenkopf Ost)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_324</nummer>
+        <ort>Baden</ort>
+        <text>Mellingerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_325</nummer>
+        <ort>Baden - Dättwil</ort>
+        <text>Kantonsspital</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_326</nummer>
+        <ort>Birmenstorf</ort>
+        <text>N1 Anschluss Baden-West</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_327</nummer>
+        <ort>Baden</ort>
+        <text>Langacker</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_328</nummer>
+        <ort>Baden</ort>
+        <text>Sommerhalden</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_329</nummer>
+        <ort>Baden - Dättwil</ort>
+        <text>Segelhof</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_330</nummer>
+        <ort>Mellingen</ort>
+        <text>St. Antoni</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_331</nummer>
+        <ort>Mellingen</ort>
+        <text>Heitersberg Haltestelle SBB</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_337</nummer>
+        <ort>Baden</ort>
+        <text>Parkstrasse BusPrio (Bäderquartier)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_338</nummer>
+        <ort>Birmenstorf</ort>
+        <text>Badener- / Fislisbacher- / Haldenstrasse (Kreisel Chrüz)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_341</nummer>
+        <ort>Baden</ort>
+        <text>Bruggerstrasse / Siggenthalerbrücke (Martinsberg)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_343</nummer>
+        <ort>Baden</ort>
+        <text>Brugger-/ Brisgistrasse (Brisgi)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_344</nummer>
+        <ort>Baden</ort>
+        <text>Wylerloch</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_345</nummer>
+        <ort>Turgi</ort>
+        <text>Wildenstich</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_346</nummer>
+        <ort>Gebensdorf</ort>
+        <text>Gemeindehaus</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_347</nummer>
+        <ort>Gebenstorf</ort>
+        <text>Zürcher- / Birmenstorfer- / Landstrasse (Rotes Haus)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_351</nummer>
+        <ort>Ennetbaden</ort>
+        <text>Schlössli</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_352</nummer>
+        <ort>Ennetbaden</ort>
+        <text>Schiefe Brücke</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_353</nummer>
+        <ort>Baden</ort>
+        <text>Grendel</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_354</nummer>
+        <ort>Baden / Ennetbaden</ort>
+        <text>Wettinger-/Schartenstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_355</nummer>
+        <ort>Ennetbaden</ort>
+        <text>Goldwand</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_356</nummer>
+        <ort>Ennetbaden</ort>
+        <text>Ehrendingerstrasse (Elektronische Busspur Ehrendingerstrasse)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_361</nummer>
+        <ort>Wettingen - Würenlos</ort>
+        <text>Furttal</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_362</nummer>
+        <ort>Wettingen</ort>
+        <text>Halbartenstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_371</nummer>
+        <ort>Obersiggenthal</ort>
+        <text>Boldistrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_373</nummer>
+        <ort>Obersiggenthal</ort>
+        <text>Landschriber</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_375</nummer>
+        <ort>Ober- / Untersiggenthal</ort>
+        <text>Brühl-/ Zelgistrasse (Dosierung Kirchdorf)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_376</nummer>
+        <ort>Untersiggenthal</ort>
+        <text>Schönegg</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_379</nummer>
+        <ort>Obersiggenthal</ort>
+        <text>Hertensteinstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_380</nummer>
+        <ort>Baden</ort>
+        <text>TVR Bustunnel</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_381</nummer>
+        <ort>Baden</ort>
+        <text>Busrampe</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_382</nummer>
+        <ort>Baden</ort>
+        <text>Brugger-/ Gstühlstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_383</nummer>
+        <ort>Baden</ort>
+        <text>Schlossbergplatz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_386</nummer>
+        <ort>Baden</ort>
+        <text>Brugger-/ Gartenstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_387</nummer>
+        <ort>Baden</ort>
+        <text>Brugger-/ Haselstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_388</nummer>
+        <ort>Baden</ort>
+        <text>Hasel-/ Güterstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_389</nummer>
+        <ort>Baden</ort>
+        <text>Brugger-/ Wiesenstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_390</nummer>
+        <ort>Baden</ort>
+        <text>Bruggerstrasse (FG-LSA 1)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_392</nummer>
+        <ort>Baden</ort>
+        <text>Bruggerstrasse (Portier 4 ABB)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_393</nummer>
+        <ort>Baden</ort>
+        <text>Brugger-/ Römerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_401</nummer>
+        <ort>Kaiseraugst</ort>
+        <text>Landstrasse / Mühlegasse (Wurmisweg)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_402</nummer>
+        <ort>Kaiseraugst</ort>
+        <text>Landstrasse / Giebenacher</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_404</nummer>
+        <ort>Rheinfelden</ort>
+        <text>Kohlplatz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_405</nummer>
+        <ort>Rheinfelden</ort>
+        <text>Schiffacker</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_408</nummer>
+        <ort>Rheinfelden</ort>
+        <text>AS Rheinfelden Ost / Riburgstrasse / Dr. Max-Wüthrichstrasse (Feldschlösschen)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_460</nummer>
+        <ort>Koblenz</ort>
+        <text>Bahnhofstrasse (Kreisel)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_461</nummer>
+        <ort>Koblenz</ort>
+        <text>Dreispitz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_464</nummer>
+        <ort>Döttingen</ort>
+        <text>Surbtalstrasse (Surbtal)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_465</nummer>
+        <ort>Döttingen</ort>
+        <text>Ausserdorf</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_466</nummer>
+        <ort>Klingnau</ort>
+        <text>Chochnerwis</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_467</nummer>
+        <ort>Koblenz</ort>
+        <text>Zollübergang</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_501</nummer>
+        <ort>Berikon / Rudolfstetten</ort>
+        <text>Mutschellen</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_502</nummer>
+        <ort>Bremgarten</ort>
+        <text>Bibenlos</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_503</nummer>
+        <ort>Bremgarten</ort>
+        <text>Badenerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_504</nummer>
+        <ort>Bremgarten</ort>
+        <text>Zufikerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_506</nummer>
+        <ort>Rudolfstetten</ort>
+        <text>Dorfzentrum</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_511</nummer>
+        <ort>Wohlen</ort>
+        <text>Bullenberg</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_512</nummer>
+        <ort>Villmergen</ort>
+        <text>Anglikerstrasse (Busbahnhof)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_513</nummer>
+        <ort>Wohlen</ort>
+        <text>Waltenschwiler-/ Haldenrainstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_516</nummer>
+        <ort>Oberwil - Lieli</ort>
+        <text>Tunnel Lieli West (LSA)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_517</nummer>
+        <ort>Oberwil - Lieli</ort>
+        <text>Tunnel Lieli Ost (LSA)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_602</nummer>
+        <ort>Oftringen</ort>
+        <text>Nigglishäuser-/ Kornweg (Wirtshüsli)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_603</nummer>
+        <ort>Oftringen</ort>
+        <text>A1 (Anschluss Süd)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_604</nummer>
+        <ort>Oftringen</ort>
+        <text>A1 Anschluss Nord</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_605</nummer>
+        <ort>Oftringen</ort>
+        <text>Kreuzstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_607</nummer>
+        <ort>Aarburg</ort>
+        <text>Höhe</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_610</nummer>
+        <ort>Aarburg - Oftringen</ort>
+        <text>Perry-Center</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_611</nummer>
+        <ort>Zofingen</ort>
+        <text>Busterminal</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_612</nummer>
+        <ort>Oftringen</ort>
+        <text>Spitalweid</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_614</nummer>
+        <ort>Aarburg</ort>
+        <text>Bahnhofstrasse (LSA Kreisel)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_615</nummer>
+        <ort>Aarburg</ort>
+        <text>LSA Oltnerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_616</nummer>
+        <ort>Aarburg</ort>
+        <text>LSA Hofmattstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_632</nummer>
+        <ort>Reinach</ort>
+        <text>Hochhaus</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_635</nummer>
+        <ort>Unterkulm</ort>
+        <text>Coop FG-LSA</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_656</nummer>
+        <ort>Birrwil</ort>
+        <text>Spiegelfabrik Bahnübergang VRA 299</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_657</nummer>
+        <ort>Birrwil</ort>
+        <text>Bahnhofstrasse (Bahnübergang / Post / Station VRA 294)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_658</nummer>
+        <ort>Beinwil am See</ort>
+        <text>Gartenstrasse (Bahnübergang VRA 275)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_659</nummer>
+        <ort>Beinwil am See</ort>
+        <text>Löwenplatz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_661</nummer>
+        <ort>Hunzenschwil</ort>
+        <text>Haupt-/ Seetalstrasse (Moor)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_662</nummer>
+        <ort>Schafisheim</ort>
+        <text>Schoren</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_663</nummer>
+        <ort>Schafisheim</ort>
+        <text>Aarauer-/ Rupperswiler-/ Talhardstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_666</nummer>
+        <ort>Lenzburg</ort>
+        <text>Freiämterplatz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_667</nummer>
+        <ort>Lenzburg</ort>
+        <text>Seetalplatz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_668</nummer>
+        <ort>Lenzburg</ort>
+        <text>Bleiche</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_671</nummer>
+        <ort>Lenzburg</ort>
+        <text>Ringstrasse / Zeughausstrasse / Bahnhof</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_673</nummer>
+        <ort>Niederlenz</ort>
+        <text>Schürz</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_682</nummer>
+        <ort>Seon</ort>
+        <text>Zopf</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_683</nummer>
+        <ort>Seon</ort>
+        <text>Talstrasse (Bahnübergang Mitte Seetalbahn VRA 372)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_684</nummer>
+        <ort>Seon</ort>
+        <text>Talstrasse (Bahnübergang Süd VRA 370)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_685</nummer>
+        <ort>Seon</ort>
+        <text>Oberdorfstrasse (Bahnübergang VRA 367)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_686</nummer>
+        <ort>Hallwil</ort>
+        <text>Bue Kistenfabrik, Seetalbahn VRA 347</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_687</nummer>
+        <ort>Hallwil</ort>
+        <text>Bue Statthalterhaus, Seetalbahn VRA 343</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_689</nummer>
+        <ort>Boniswil</ort>
+        <text>Leutwilerstrasse (Bue Leutwilerstrasse VRA 329)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_220</nummer>
+        <ort>Horgen</ort>
+        <text>See-/ Fähre-/ Rotwegstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_611</nummer>
+        <ort>Winterthur</ort>
+        <text>Dättnauer- / Steigstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZH_350</nummer>
+        <ort>Fehraltorf</ort>
+        <text>Kempttal-/ Rumlikerstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG06_09</nummer>
+        <ort>Cham</ort>
+        <text>Chamerstrasse - Umfahrung Hünenberg (Duggeli)</text>
+        <gruppe>Kanton ZG (15)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BE327004</nummer>
+        <ort>Aarberg</ort>
+        <text>Bahnhofstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_468</nummer>
+        <ort>Zurzach</ort>
+        <text>Burggerstrasse/ Hauptstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_296</nummer>
+        <ort>Adliswil</ort>
+        <text>Zürich-/ Tüfistrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_295</nummer>
+        <ort>Adliswil</ort>
+        <text>Zürichstrasse / Grüt</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_294</nummer>
+        <ort>Adliswil</ort>
+        <text>Zürich-/ Moosstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>LU__89</nummer>
+        <ort>Kriens</ort>
+        <text>Luzerner- / Alpenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE306307</nummer>
+        <ort>Ittigen</ort>
+        <text>Worblentalstrasse (TBA_VM_0100-115)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZH_135</nummer>
+        <ort>Kloten</ort>
+        <text>Flughafenstrasse / Butzenbühlring / Einfahrt N11</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_144</nummer>
+        <ort>Kloten</ort>
+        <text>Flughafenstrasse / Butzenbüelring / Ein- / Ausfahrt N11</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>TG_384</nummer>
+        <ort>Matzingen</ort>
+        <text>St. Galler-  / Frauenfelderstrasse Matzingen</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_463</nummer>
+        <ort>Bad Zurzach</ort>
+        <text>Mittkirchweg 3</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SZ_800</nummer>
+        <ort>Wollerau</ort>
+        <text>alte Wolleraustrasse / Erlenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__74</nummer>
+        <ort>Hitzkirch</ort>
+        <text>Bahnhostrasse 42</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZH_321</nummer>
+        <ort>Volketswil</ort>
+        <text>Umfahrungs-/ Hardstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BE_154_(3000-154)</nummer>
+        <ort>Bümpliz</ort>
+        <text>Weissensteinstrasse / Turnierstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_208</nummer>
+        <ort>Windisch</ort>
+        <text>Windisch / Hauserstrasse / Habsburgstrasse (Katholisch Kirche)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_209</nummer>
+        <ort>Hausen</ort>
+        <text>Zubringer Hausen / Hauserstrasse (Im Winkel)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG01_04</nummer>
+        <ort>Zug</ort>
+        <text>Baarer- / Metallstrasse, 6400 Zug</text>
+        <gruppe>Stadt ZG (16)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BS_260</nummer>
+        <ort>Basel</ort>
+        <text>Dreirosen</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BS_214</nummer>
+        <ort>Basel</ort>
+        <text>Maulbeerstrasse / Schwarzwaldallee</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_250</nummer>
+        <ort>Auenstein / Rupperswil</ort>
+        <text>Schwimmbad Rupperswil-Auenstein (Aarebrücke)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_406</nummer>
+        <ort>Stein</ort>
+        <text>Schaffhauserstrasse / Fridolinsbrücke (Fridolinsbrücke)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>LU_207</nummer>
+        <ort>Luzern-Littau</ort>
+        <text>Rothenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_507</nummer>
+        <ort>Dottikon</ort>
+        <text>Othmarsinger- / Hendschikerstrasse (Sternen)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_990</nummer>
+        <ort>Bülach</ort>
+        <text>Weiacherstrasse / Marterlochstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_991</nummer>
+        <ort>Bülach</ort>
+        <text>Zürcherstrasse / Im Gländ</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_336</nummer>
+        <ort>Baden</ort>
+        <text>Mellinger- / Burghaldenstrasse (Kreisel Burghalde)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>OLTE_22</nummer>
+        <ort>Olten</ort>
+        <text>Handelshof-Capitol</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>TG_391</nummer>
+        <ort>Münchwilen</ort>
+        <text>Eschlikoner- / Frauenfelderstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_143</nummer>
+        <ort>Aarau</ort>
+        <text>Nord Allee</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_503</nummer>
+        <ort>Winterthur</ort>
+        <text>Landvogt-Waser-/ Heinrich-Bosshard-Strasse (Waser)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BS_211</nummer>
+        <ort>Basel</ort>
+        <text>Grenzacherstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BS_574</nummer>
+        <ort>Basel</ort>
+        <text>St.Jakob</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BS_575</nummer>
+        <ort>Basel</ort>
+        <text>ST.Jakob Park</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BS_576</nummer>
+        <ort>Basel</ort>
+        <text>Birsbrücke</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_693</nummer>
+        <ort>Möriken-Wildegg</ort>
+        <text>Lenzburger- / Bruggerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_694</nummer>
+        <ort>Möriken-Wildegg</ort>
+        <text>Brugger- / Lenzburgerstrasse</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZG05_08</nummer>
+        <ort>Baar</ort>
+        <text/>
+        <gruppe>Stadt ZG (16)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_202</nummer>
+        <ort>Winterthur</ort>
+        <text>Tösstalstrasse / Unterer-/ Oberer Deutweg / Pflanzschulstrasse (Zwingliplatz)</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BE307402</nummer>
+        <ort>Muri</ort>
+        <text>Thun-/ Thoracker- / Belpstrasse (Sternenplatz)</text>
+        <gruppe>Kanton BE (7)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_205</nummer>
+        <ort>Regensdorf</ort>
+        <text>Neue Wehntaler-/ Pumpwerkstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_358</nummer>
+        <ort>Kloten</ort>
+        <text>Bassersdorfer-/ Hohstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_107</nummer>
+        <ort>Hirzel</ort>
+        <text>Zuger-/ Dorf-/ Schönenbergstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_132</nummer>
+        <ort>Glattbrugg</ort>
+        <text>Schaffhauserstrasse Autobahn Ein-/ Ausfahrt</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_133</nummer>
+        <ort>Glattbrugg</ort>
+        <text>Schaffhauserstrasse Autobahn Ein-/ Ausfahrt</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_194</nummer>
+        <ort>Birmensdorf</ort>
+        <text/>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BS_527</nummer>
+        <ort>Basel</ort>
+        <text>Dreispitz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BS_528</nummer>
+        <ort>Basel</ort>
+        <text>Duggingerhof</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__73_Horw</nummer>
+        <ort>Horw</ort>
+        <text>"Kantonsstrasse Nord / Zubringer Süd ""Kleinwil"", Horw" (Kleinwil / Zubringer Süd)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__91_Kriens</nummer>
+        <ort>Kriens</ort>
+        <text>Luzerner-/ Grossfeldstrasse FG-LSA, Kriens (Grossfeld)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZH_360</nummer>
+        <ort>Töss</ort>
+        <text>Zürcherstrasse / Anschluss Töss (LSA Anschluss Töss)</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_664</nummer>
+        <ort>Lenzburg</ort>
+        <text>Aarauerstrasse /  Augustin Keller-Strasse (AG_664 Lenzburg Freihof)</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_101</nummer>
+        <ort>Winterthur</ort>
+        <text>Talegg, Winterthur</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>AG_469</nummer>
+        <ort>Bad Zurzach</ort>
+        <text>Neubergstrasse 32, 5330 Zurzach, CH</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_803</nummer>
+        <ort>Winterthur</ort>
+        <text>Wülflinger-/ Salomon-Hirzel-Strasse</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>SZ__18</nummer>
+        <ort>Pfäffikon</ort>
+        <text>Churerstrasse</text>
+        <gruppe>Kanton SZ (13)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_410</nummer>
+        <ort>Winterthur</ort>
+        <text>Freuenfelder/Stationstrasse</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>WI_504</nummer>
+        <ort>Winterthur</ort>
+        <text>Tösstal-/ Seenerstrasse (Steinackerweg)</text>
+        <gruppe>Stadt Winterthur (17)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BL20907</nummer>
+        <ort>Liestal</ort>
+        <text>Tiergarten / Oristalstrasse (Tiergarten)</text>
+        <gruppe>Kanton BL (9)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>BL50401</nummer>
+        <ort>Dittingen</ort>
+        <text>Buswendeplatz</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BI_511</nummer>
+        <ort>Biel</ort>
+        <text>Biel Mattenstrasse-Zentralstrasse (Mattenstrasse-Zentralstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE330206</nummer>
+        <ort>Moosseedorf</ort>
+        <text>Bernstrasse / Lochackerweg</text>
+        <gruppe>Kanton BE (7)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>AG_649</nummer>
+        <ort>Lenzburg</ort>
+        <text>Aarauerstrasse / Fünflindenstrasse AG_649 Aarauerstrasse 55, 5600 Lenzburg</text>
+        <gruppe>Kanton AG (2)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>UR___2</nummer>
+        <ort>Flüelen</ort>
+        <text>Bahnhof-/ Seemattstrasse Aschoren</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>ZH__97</nummer>
+        <ort>Dübendorf</ort>
+        <text>Autobahnausfahrt Wallisellen / Dübendorf - Ueberlandstrasse</text>
+        <gruppe>Kanton ZH (3)</gruppe>
+    </anlage>
+    <anlage>
+        <nummer>ZH_332</nummer>
+        <ort>Volketswil</ort>
+        <text>Effretiker-/ Geerenstrasse</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU__46</nummer>
+        <ort>Emmen</ort>
+        <text>Neuenkirchstrasse (Neuenkirchstrasse)</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>LU_149</nummer>
+        <ort>Rothenburg</ort>
+        <text>Bushof West</text>
+        <gruppe/>
+    </anlage>
+    <anlage>
+        <nummer>BE256201</nummer>
+        <ort>Port</ort>
+        <text>Allmendstrasse / Huebstrasse / Ipsachstrasse (Kreisel Port)</text>
+        <gruppe/>
+    </anlage>
+</lsa_anlagen>

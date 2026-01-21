@@ -1,4 +1,4 @@
-package ch.heroin.xmlparser;
+package ch.heroin.xmlparse;
 
 import java.io.InputStream;
 

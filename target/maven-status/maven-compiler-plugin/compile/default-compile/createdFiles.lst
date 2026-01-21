@@ -1,5 +1,6 @@
-ch\heroin\xmlParser\App.class
-ch\heroin\xmlParser\RecipientXmlParser$1.class
-ch\heroin\xmlParser\ResourceLoader.class
-ch\heroin\xmlParser\model\Recipient.class
-ch\heroin\xmlParser\RecipientXmlParser.class
+ch/heroin/xmlparser/ResourceLoader.class
+ch/heroin/xmlparser/App.class
+ch/heroin/xmlparser/model/Recipient.class
+ch/heroin/xmlparser/RecipientXmlParser$1.class
+ch/heroin/xmlparser/RecipientXmlParser.class
+ch/heroin/xmlparser/controller/AppController.class

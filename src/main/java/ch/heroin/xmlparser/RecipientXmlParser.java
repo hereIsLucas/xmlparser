@@ -1,4 +1,4 @@
-package ch.heroin.xmlparse;
+package ch.heroin.xmlparser;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;

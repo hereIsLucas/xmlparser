@@ -1,4 +1,4 @@
-package ch.heroin.xmlParser;
+package ch.heroin.xmlparser;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
